@@ -1,0 +1,11 @@
+# Lab practices and policies {.unnumbered}
+
+Our lab’s practices and policies are intended to provide a framework for maximizing efficiency. Achieving our peak efficiency as a lab means we are being as scientifically productive as possible, in terms of knowledge discovery (learning new stuff) and dissemination (papers, talks, conference presentations, publicly released datasets, software, etc.). It also means that our fellow lab members are achieving their training and career objectives. To achieve peak efficiency, we need to succeed on three fronts:
+
+* **`Communication`**. We want to foster an environment where everyone feels comfortable contributing to the collective dialogue. Our lab meets regularly to discuss logistical (e.g. scheduling, financial, sociological) and technical issues. We also use a variety of software packages to synchronize and facilitate communication within our lab and between our lab and the broader scientific community.
+
+* **`Resource allocation`**. Our lab resources (e.g. equipment, time, money, attention) are finite. We want to foster an environment where lab resources are used as efficiently as possible to achieve our collective goals. We also want to foster sustainable use of resources by regularly pursuing research funding opportunities.
+
+* **`Adaptability`**. The whole point of research is that we don’t already know the answers to the questions we’re exploring or how to create the tools we’re working on. That means that we won’t necessarily be able to plan out everything in advance. We often need to be focused and efficient without knowing the end goal!
+
+Your job as a contributing lab member is to help us to achieve our collective peak efficiency (as a lab) while also maximizing your own training and career potential. To do this, the iHuman Lab practices agile research, as described in the next section.

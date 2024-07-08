@@ -1,0 +1,27 @@
+# Bill of rights and responsibilities {.unnumbered}
+
+As a member of the iHuman Lab, you are entitled to certain rights, and you agree to take on certain responsibilities.
+
+## Your rights as a lab member
+1. You are entitled to a safe work environment free from harassment,
+abuse, violence, and discrimination in any form.
+2. You are entitled to be supported and respected by all lab members.
+3. You are entitled to openly share your scientific ideas and constructive feedback with all lab members.
+4. You are entitled to appropriate credit (e.g. authorship, acknowledgement, letter of recommendation) for your work and ideas.
+
+## Your responsibilities as a lab member
+1. You agree to contribute to a safe work environment and to refrain from behaviors that harass, abuse, expose to violence, or discriminate.
+2. You agree to support and respect all lab members, including yourself.
+3. You agree to openly share your scientific ideas and constructive feedback with other lab members.
+4. You agree to clearly communicate and document your contributions to each research project (e.g. through GitHub commits and issues, reports, updates on Slack, etc.).
+5. You agree to establish open lines of communication between yourself and other lab members, and to address concerns or issues promptly and directly with the relevant parties (to the extent that you feel safe doing so).
+6. You agree to carry out your work with integrity and diligence, adhering to the highest possible standards of scientific excellence.
+7. You agree to utilize lab resources (including equipment, money, time, etc.) responsibly and sustainably.
+8. You agree to maintain a clean workspace free from clutter, including both personal spaces (e.g. desks) and shared areas (couch, sink, testing rooms, etc.).
+
+:::{.callout-note title=Task}
+Read this [letter](https://www.science.org/content/article/what-can-we-learn-dartmouth){target="_blank"} about defining and characterizing boundaries between lab members and noticing unhealthy norms.
+:::
+
+## Recourse
+If you feel your rights as a lab member have been, or are in danger of being, violated, it is your duty to report those violations immediately to a senior staff member (e.g. Hemanth, Department Chair, Deans, police, Title IX coordinator, ombudsman, etc.). Similarly, if you notice others endangering others’ rights, or neglecting their responsibilities, it is your duty to report those violations to a senior staff member.

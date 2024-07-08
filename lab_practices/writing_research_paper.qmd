@@ -1,0 +1,14 @@
+# Writing research papers {.unnumbered}
+
+Research papers are the primary research output of our lab. Publica- tions are the “currency of academia,” in that they are central to career advancement. With each allocation of lab resources (equipment, money, time) we should be asking ourselves how this contributes to a paper.
+General procedure
+
+All lab papers should be coordinated with Hemanth. A paper starts with a discussion of:
+
+1. What the paper is going to be about
+2. What the key results are
+3. What the overall `story` is
+4. The current status of various components of the project (e.g. data collection, analyses, figures, interpretation, literature review, etc.)
+5. Who the potential candidates for authorship on the paper are
+
+We draft papers in LATEX, either on [GitHub](https://github.com){target="_blank"} or on [Overleaf](https://www.overleaf.com){target="_blank"} (an online platform that supports text editing and compiling PDFs in the browser). Progress should be shared regularly via Slack.

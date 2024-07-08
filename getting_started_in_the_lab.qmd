@@ -1,0 +1,9 @@
+# Getting started in the lab {.unnumbered}
+
+The very first thing you need to do is to get set up on the following platforms, which will enable you to interact with the rest of the lab, download and use the lab’s software packages, and accomplish various necessary administrative tasks:
+
+1. **`Slack`**: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. If you have a Dartmouth College NetID you should be able to join the workspace by clicking the link. If you do not have a NetID, you’ll need to request one here.
+
+2. **`GitHub`**: This is used to manage all code, papers, grants, presentations, and posters. In other words, anything where it’d be useful to track multiple versions, anything that we might ultimately want to release to the public, and/or anything that multiple lab members will be collaborating on. Each project has one or more GitHub repositories. You should treat GitHub as a digital version of a “lab notebook” that contains a formal record of every contribution you make to your projects. We use GitHub logs to assign credit for ideas, code or writing contributions, determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via GitHub so that you receive appropriate credit for your ideas and maintain a continuous traceable log for your project.
+
+

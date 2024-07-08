@@ -1,0 +1,237 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "iHuman Lab Manual",
+    "section": "",
+    "text": "Welcome\nWelcome to the Intelligent Human-Machine Nexus Lab (iHuman Lab)! Starting to work in a research lab can be overwhelming sometimes (we are all humans!). This manual is to help you make the transition into iHuman lab more enjoyable.\nThis lab manual is crafted as your essential companion, designed to acquaint you with our lab’s operations, policies, and your rights and responsibilities as a valued member of the lab. Within these pages, you will find detailed explanations of the bill of rights and responsibilities, outlining both what you can expect from the lab environment and what is expected of you in terms of conduct, safety, and ethical standards. Clear and concise lab practices and policies are also delineated to ensure smooth integration into our research workflows.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Who is this lab manual for?\nEvery new lab member should read the latest version of this lab manual in detail and reference it later as needed. Periodically throughout the document, you will see call outs with listed Task items.\nCompleting your read through entails:\nThis lab manual is meant to be a living document. All lab members are welcome (and encouraged!) to submit edits that improve the content, clarity, and overall helpfulness of this document at any point throughout their tenure in the lab. What should you do if you don’t understand something? If you don’t understand something you read in this manual, it is important that you ask another lab member for help. Every member of the lab brings their own unique knowledge base, training, life experiences, and perspectives. Respecting and celebrating those differences drives the science we do. If you’re new to the lab or new to a particular technique, you might feel like a newbie today—but chances are good that if you stick around for a bit someone else will be seeking your expert opinion before you know it. In addition to learning, there’s another good reason for asking for help: if you don’t understand something, there’s a reasonable chance that you’ve discovered a mistake or a logical inconsistency!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "introduction.html#who-is-this-lab-manual-for",
+    "href": "introduction.html#who-is-this-lab-manual-for",
+    "title": "Introduction",
+    "section": "",
+    "text": "Reading the contents of the manual\nAsking current lab members about any confusing aspects\nCompleting the relevant Task items. You will also see non-task NOTE items; these provide helpful tips and additional commentary on the nearby text.\n\n\n\n\n\n\n\n\nTask\n\n\n\nUpon reading through this lab manual for the first time, please update the document to include your name in the Lab members section. Importantly, be sure to fork the GitHub repository, make your edit on your personal fork, and submit a pull request with your update.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "introduction.html#why-is-it-worth-my-time-to-read-through-the-manual",
+    "href": "introduction.html#why-is-it-worth-my-time-to-read-through-the-manual",
+    "title": "Introduction",
+    "section": "Why is it worth my time to read through the manual?",
+    "text": "Why is it worth my time to read through the manual?\nAside from pursuing your own curiosity, a major reason that you’ve decided to join an academic research lab is probably because you want to gain training or career-advancing experiences. This manual briefly summarizes the collective wisdom of past and present lab members in a way that we think will best allow you to achieve your objectives. Learn from it, challenge it, and add to it.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "introduction.html#what-isnt-this-lab-manual",
+    "href": "introduction.html#what-isnt-this-lab-manual",
+    "title": "Introduction",
+    "section": "What isn’t this lab manual?",
+    "text": "What isn’t this lab manual?\nThis lab manual is not intended to provide a comprehensive overview of everything you need to know to do your research projects. As described next, you may not even know what you need to know to do your projects! Nevertheless, you need somewhere to start, and this is that place.\nWe also maintain a repository of lab tutorials that provide guidance on specific tasks. If you are looking for help on a particular task (or understanding a particular concept) that isn’t covered by the existing set of tutorials, please consider contributing a tutorial of your own once you’ve figured things out!",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "bill_of_rights_and_responsibilities.html",
+    "href": "bill_of_rights_and_responsibilities.html",
+    "title": "Bill of rights and responsibilities",
+    "section": "",
+    "text": "Your rights as a lab member",
+    "crumbs": [
+      "Bill of rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "bill_of_rights_and_responsibilities.html#your-rights-as-a-lab-member",
+    "href": "bill_of_rights_and_responsibilities.html#your-rights-as-a-lab-member",
+    "title": "Bill of rights and responsibilities",
+    "section": "",
+    "text": "You are entitled to a safe work environment free from harassment, abuse, violence, and discrimination in any form.\nYou are entitled to be supported and respected by all lab members.\nYou are entitled to openly share your scientific ideas and constructive feedback with all lab members.\nYou are entitled to appropriate credit (e.g. authorship, acknowledgement, letter of recommendation) for your work and ideas.",
+    "crumbs": [
+      "Bill of rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "bill_of_rights_and_responsibilities.html#your-responsibilities-as-a-lab-member",
+    "href": "bill_of_rights_and_responsibilities.html#your-responsibilities-as-a-lab-member",
+    "title": "Bill of rights and responsibilities",
+    "section": "Your responsibilities as a lab member",
+    "text": "Your responsibilities as a lab member\n\nYou agree to contribute to a safe work environment and to refrain from behaviors that harass, abuse, expose to violence, or discriminate.\nYou agree to support and respect all lab members, including yourself.\nYou agree to openly share your scientific ideas and constructive feedback with other lab members.\nYou agree to clearly communicate and document your contributions to each research project (e.g. through GitHub commits and issues, reports, updates on Slack, etc.).\nYou agree to establish open lines of communication between yourself and other lab members, and to address concerns or issues promptly and directly with the relevant parties (to the extent that you feel safe doing so).\nYou agree to carry out your work with integrity and diligence, adhering to the highest possible standards of scientific excellence.\nYou agree to utilize lab resources (including equipment, money, time, etc.) responsibly and sustainably.\nYou agree to maintain a clean workspace free from clutter, including both personal spaces (e.g. desks) and shared areas (couch, sink, testing rooms, etc.).\n\n\n\n\n\n\n\nTask\n\n\n\nRead this letter about defining and characterizing boundaries between lab members and noticing unhealthy norms.",
+    "crumbs": [
+      "Bill of rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "bill_of_rights_and_responsibilities.html#recourse",
+    "href": "bill_of_rights_and_responsibilities.html#recourse",
+    "title": "Bill of rights and responsibilities",
+    "section": "Recourse",
+    "text": "Recourse\nIf you feel your rights as a lab member have been, or are in danger of being, violated, it is your duty to report those violations immediately to a senior staff member (e.g. Hemanth, Department Chair, Deans, police, Title IX coordinator, ombudsman, etc.). Similarly, if you notice others endangering others’ rights, or neglecting their responsibilities, it is your duty to report those violations to a senior staff member.",
+    "crumbs": [
+      "Bill of rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "lab_practices/official_lab_practices_and_policies.html",
+    "href": "lab_practices/official_lab_practices_and_policies.html",
+    "title": "Lab practices and policies",
+    "section": "",
+    "text": "Our lab’s practices and policies are intended to provide a framework for maximizing efficiency. Achieving our peak efficiency as a lab means we are being as scientifically productive as possible, in terms of knowledge discovery (learning new stuff) and dissemination (papers, talks, conference presentations, publicly released datasets, software, etc.). It also means that our fellow lab members are achieving their training and career objectives. To achieve peak efficiency, we need to succeed on three fronts:\n\nCommunication. We want to foster an environment where everyone feels comfortable contributing to the collective dialogue. Our lab meets regularly to discuss logistical (e.g. scheduling, financial, sociological) and technical issues. We also use a variety of software packages to synchronize and facilitate communication within our lab and between our lab and the broader scientific community.\nResource allocation. Our lab resources (e.g. equipment, time, money, attention) are finite. We want to foster an environment where lab resources are used as efficiently as possible to achieve our collective goals. We also want to foster sustainable use of resources by regularly pursuing research funding opportunities.\nAdaptability. The whole point of research is that we don’t already know the answers to the questions we’re exploring or how to create the tools we’re working on. That means that we won’t necessarily be able to plan out everything in advance. We often need to be focused and efficient without knowing the end goal!\n\nYour job as a contributing lab member is to help us to achieve our collective peak efficiency (as a lab) while also maximizing your own training and career potential. To do this, the iHuman Lab practices agile research, as described in the next section.",
+    "crumbs": [
+      "Lab practices and policies"
+    ]
+  },
+  {
+    "objectID": "lab_practices/writing_research_paper.html",
+    "href": "lab_practices/writing_research_paper.html",
+    "title": "Writing research papers",
+    "section": "",
+    "text": "Research papers are the primary research output of our lab. Publica- tions are the “currency of academia,” in that they are central to career advancement. With each allocation of lab resources (equipment, money, time) we should be asking ourselves how this contributes to a paper. General procedure\nAll lab papers should be coordinated with Hemanth. A paper starts with a discussion of:\n\nWhat the paper is going to be about\nWhat the key results are\nWhat the overall story is\nThe current status of various components of the project (e.g. data collection, analyses, figures, interpretation, literature review, etc.)\nWho the potential candidates for authorship on the paper are\n\nWe draft papers in LATEX, either on GitHub or on Overleaf (an online platform that supports text editing and compiling PDFs in the browser). Progress should be shared regularly via Slack.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Writing research papers"
+    ]
+  },
+  {
+    "objectID": "lab_practices/authorship_guidlines.html",
+    "href": "lab_practices/authorship_guidlines.html",
+    "title": "Authorship guidelines",
+    "section": "",
+    "text": "The iHuman Lab follows the NIH Guidelines for Authorship in considering whether your contribution to a project merits authorship on the paper. If you have made a non-trivial contribution to a project but did not meet the requirements for authorship, you will instead receive a citation in the acknowledgements section of the paper.\n\n\n\n\n\n\nTask\n\n\n\nReview the NIH Guidelines for Authorship.\n\n\n\n\n\n\n\n\nNote\n\n\n\nConference posters and abstracts generally have substantially less stringent authorship requirements than formal papers. The general rule of thumb for posters is that all project team members should be co-authors.\n\n\nIn general, you likely meet the requirements for authorship if you contributed in any of the following ways:\n\nDrafted the manuscript (this warrants first authorship)\nCame up with the idea or made other substantial intellectual contributions that meaningfully shaped the trajectory of the project\nCarried out an original experimental study (e.g. that you designed or implemented)\nCarried out non-trivial data analyses (e.g. more complicated than t-tests)\nContributed novel tools or resources to the project that haven’t been published yet\n\nYou are unlikely to meet the requirements for authorship if your contributions were limited to the following:\n\nRunning experimental participants for an already-designed and coded-up study\nRunning trivial data analyses (e.g. t-tests or similar)\nGetting trained by one of the other project members on a project-related task\nTraining another project member on a project-related task\nSharing already-published tools or resources\nEditing or commenting on a draft of the manuscript\n\nThe final determination for who will be an author on each lab paper (and in what order) will be made by Hemanth, following open discussions with project team members.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Authorship guidelines"
+    ]
+  },
+  {
+    "objectID": "getting_started_in_the_lab.html",
+    "href": "getting_started_in_the_lab.html",
+    "title": "Getting started in the lab",
+    "section": "",
+    "text": "The very first thing you need to do is to get set up on the following platforms, which will enable you to interact with the rest of the lab, download and use the lab’s software packages, and accomplish various necessary administrative tasks:\n\nSlack: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. If you have a Dartmouth College NetID you should be able to join the workspace by clicking the link. If you do not have a NetID, you’ll need to request one here.\nGitHub: This is used to manage all code, papers, grants, presentations, and posters. In other words, anything where it’d be useful to track multiple versions, anything that we might ultimately want to release to the public, and/or anything that multiple lab members will be collaborating on. Each project has one or more GitHub repositories. You should treat GitHub as a digital version of a “lab notebook” that contains a formal record of every contribution you make to your projects. We use GitHub logs to assign credit for ideas, code or writing contributions, determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via GitHub so that you receive appropriate credit for your ideas and maintain a continuous traceable log for your project.",
+    "crumbs": [
+      "Getting started in the lab"
+    ]
+  },
+  {
+    "objectID": "lab_practices/project_roles.html",
+    "href": "lab_practices/project_roles.html",
+    "title": "Project roles",
+    "section": "",
+    "text": "Project Owner. This is the person responsible for maximizing “return on investment” of the project effort. The project owner:\n\nIs responsible for project vision\nConstantly re-prioritizes the research backlog, adjusting any long-term expectations such as publication and release plans\nActs as the final arbiter of requirements questions\nAccepts or rejects each project increment\nDecides whether to publish/ship the project\nDecides whether to continue development\nConsiders interests of funding bodies (e.g. NIH, NSF, DARPA, private organizations) and the scientific community\nMay contribute as a team member\nHas a leadership role\nWill usually be Hemanth\n\nTeam Member. Team members are responsible for carrying out the project work. Team members:\n\nAre cross-functional: includes members with development skills (write code or papers/grants), testing skills (e.g. data collection, test software, proofread papers/grants), and/or domain expertise (e.g. knowledge or interest in a relevant research area)\nAre self-organizing and self-managing without externally assigned roles\nNegotiate commitments with the Project Owner, one “sprint” at a time\nHave autonomy regarding how to reach commitments (e) Are intensely collaborative\nAre (ideally) located in one team room (usually this will be the lab)\nAre (ideally) committed to long-term, consistent lab member- ship\nAre (ideally) focused on a single team/project at a time\nHave a leadership role\n\nProject Coordinator. The Project Coordinator facilitates the agile research process both directly and indirectly. The Project Coordinator:\n\nHelps to resolve impediments\nCreates an environment conducive to team self-organization\nCaptures empirical data to adjust forecasts (e.g. weekly Slack reports summarizing progress)\nShields the team from external interference and distraction to keep it “in the zone”\nEnforces timelines\nHas no management authority over the team (anyone with authority over the team is by definition not its Project Coordinator)\nHas a leadership role\nWill usually be either the Lab Coordinator (note: this position is currently vacant) or Hemanth.\n\nCollaborator. Collaborators are not formally part of the project team and generally will not attend regular meetings as part of the team. Importantly, collaborators do not have a leadership role in the project. They may carry out one or more of the following roles:\n\nProvide data or share equipment\nProvide occasional consulting services\nProvide occasional feedback on project results\nCarry out minor analyses\nProofread documents\nHelp with administrative tasks such as scheduling\nHelp with information technology tasks such as computer maintenance\n\nBy definition, collaborators play a minor role in the project, and they are not responsible for managing any aspect of the project. They may become Team Members if their involvement increases. Generally, collaborators will be included in a paper’s acknowledge- ment section, but collaborators are not normally co-authors.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Project roles"
+    ]
+  },
+  {
+    "objectID": "lab_practices/making_mistakes.html",
+    "href": "lab_practices/making_mistakes.html",
+    "title": "Making mistakes",
+    "section": "",
+    "text": "The work we do is complicated, and mistakes happen. When you notice a mistake (a bug, misinterpretation, mislabeling, or any other error), it is critical that you report the mistake immediately. Whereas mistakes are unavoidable in science, negative impacts can be minimized by fostering a workplace where reporting mistakes is celebrated and accepted as part of the natural course of getting things done. Mistakes are opportunities to learn and grow, and identifying or noticing mistakes should be celebrated as part of our growth as scientists. However, real harm can come from failing to report mistakes soon enough. There is a proverb that says the best time to plant a tree was 20 years ago; the second best time is now. Analogously, the best time to identify and correct a mistake may have been in the past– but the second best time is right now!\nExample scenarios (not an exhaustive list):\n\nYou’ve shared a figure, statistic, or other result, and you’ve realized there’s a bug in your code.\nYou tried to collect some data and the experiment crashed or yielded corrupted data.\nYou’re re-reading a paper that you shared, and you notice a mistake or typo.\nYou made a plan with your project team and you realized it’s flawed in some way, or that there’s potentially a better solution or approach.\nYou released a software package and you’ve found a bug or error.\n\nAppropriate actions for each of the above scenarios (this should happen immediately after you notice the mistake):\n\nDouble check, to the best of your ability, that the mistake is real. This may involve checking over code, rebooting a computer and restarting an experiment, re-reading reference text, etc.\nCreate a GitHub issue describing the problem. Provide information about how to reproduce the problem (if applicable), the expected behavior, and the observed behavior. Also, provide any relevant system or environment information that may be necessary for reproducing the problem (e.g. details of the computing environment).\nCoordinate over Slack with your project team to formulate an action plan.\nAsk other lab members for help if the course of action isn’t clear. Also, try Google and/or Stack Exchange. If you think you might have caught a mistake but aren’t sure, consult with another lab member! It never hurts to be safe!",
+    "crumbs": [
+      "Lab practices and policies",
+      "Making mistakes"
+    ]
+  },
+  {
+    "objectID": "lab_practices/lab_meetings.html",
+    "href": "lab_practices/lab_meetings.html",
+    "title": "Lab meetings",
+    "section": "",
+    "text": "Our lab has largely been operating in a hybrid mode of work (i.e., partially remote and partially in-person), and in recent years our meeting schedule and requirements have reflected this reality.\nMoving forward, we are now gradually starting to incorporate more in-person interactions and meetings to facilitate more spontaneous interactions, discussions, and collaborations.\nEffective lab communication requires forums for communicating. As described below, we use Slack to facilitate non-in-person communications. We also encourage in-person interactions as often as possible—ideally several times a week for group projects.\nWe’ll have the following regularly scheduled meetings:\n\n\n\n\n\n\nImportant\n\n\n\nLab meetings. Starting in the winter, 2024 term, we will be re-instating weekly lab meetings, to be held on Tuesdays from 1:30 - 2:30 PM (CST) in our main lab space.\n\n\nIf you are an active lab member, you are expected to attend our lab meetings unless you let Hemanth know that you have a conflict (e.g., a course that meets at the same time, another commitment that comes up, etc.). It is important to prioritize lab meeting attendance so that we can build and maintain a lab culture of collaboration and ongoing participation.\nYou are also expected to present at one lab meeting per term. Possible presentation topics include (but are not limited to):\n\nA half-baked idea you have\nAn interesting paper you read\nAn interesting tool or software package you learned about\nA tutorial\nA (brief) hackathon\nSomething you’re confused about that you want help from other lab members\nA practice presentation (poster, talk, etc.) you’d like feedback on\nLead a discussion about some topic you think would be of interest to the group\n\nYou can take up to an hour for your presentation or discussion, although taking less than an hour is great too. You can also share a meeting slot with one or more other lab members if you wish. (A presentation with another lab member can still “count” as a presentation for the given term.) Hemanth will send out a Google Sheets link where you can add yourself to the meeting schedule at the start of each term.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Lab meetings"
+    ]
+  },
+  {
+    "objectID": "lab_practices/lab_practices_and_policies.html",
+    "href": "lab_practices/lab_practices_and_policies.html",
+    "title": "Lab practices and policies",
+    "section": "",
+    "text": "Our lab’s practices and policies are intended to provide a framework for maximizing efficiency. Achieving our peak efficiency as a lab means we are being as scientifically productive as possible, in terms of knowledge discovery (learning new stuff) and dissemination (papers, talks, conference presentations, publicly released datasets, software, etc.). It also means that our fellow lab members are achieving their training and career objectives. To achieve peak efficiency, we need to succeed on three fronts:\n\nCommunication. We want to foster an environment where everyone feels comfortable contributing to the collective dialogue. Our lab meets regularly to discuss logistical (e.g. scheduling, financial, sociological) and technical issues. We also use a variety of software packages to synchronize and facilitate communication within our lab and between our lab and the broader scientific community.\nResource allocation. Our lab resources (e.g. equipment, time, money, attention) are finite. We want to foster an environment where lab resources are used as efficiently as possible to achieve our collective goals. We also want to foster sustainable use of resources by regularly pursuing research funding opportunities.\nAdaptability. The whole point of research is that we don’t already know the answers to the questions we’re exploring or how to create the tools we’re working on. That means that we won’t necessarily be able to plan out everything in advance. We often need to be focused and efficient without knowing the end goal!\n\nYour job as a contributing lab member is to help us to achieve our collective peak efficiency (as a lab) while also maximizing your own training and career potential. To do this, the iHuman Lab practices agile research, as described in the next section.",
+    "crumbs": [
+      "Lab practices and policies"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgment",
+    "href": "index.html#acknowledgment",
+    "title": "iHuman Lab Manual",
+    "section": "Acknowledgment",
+    "text": "Acknowledgment",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "lab_members.html",
+    "href": "lab_members.html",
+    "title": "Lab members",
+    "section": "",
+    "text": "PI\nHemanth Manjunatha (2024-)",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "lab_members.html#phd-students",
+    "href": "lab_members.html#phd-students",
+    "title": "Lab members",
+    "section": "PhD Students",
+    "text": "PhD Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "lab_members.html#master-students",
+    "href": "lab_members.html#master-students",
+    "title": "Lab members",
+    "section": "Master Students",
+    "text": "Master Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "lab_members.html#undergraduate-students",
+    "href": "lab_members.html#undergraduate-students",
+    "title": "Lab members",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "checklist_and_signature.html",
+    "href": "checklist_and_signature.html",
+    "title": "Checklist and signature page",
+    "section": "",
+    "text": "Congrats on making towards the end of the document. Please sign the below document and send it to ihuman.research.lab@gmail.com",
+    "crumbs": [
+      "Checklist and signature page"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+project:
+  type: book
+
+book:
+  title: 'iHuman Lab Manual'
+  author: 'Hemanth Manjunatha'
+  date: today
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - bill_of_rights_and_responsibilities.qmd
+    - part: lab_practices/lab_practices_and_policies.qmd
+      chapters:
+        - lab_practices/writing_research_paper.qmd
+        - lab_practices/authorship_guidlines.qmd
+        - lab_practices/project_roles.qmd
+        - lab_practices/lab_meetings.qmd
+        - lab_practices/making_mistakes.qmd
+    - getting_started_in_the_lab.qmd
+    - lab_members.qmd
+    - checklist_and_signature.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+  pdf:
+    documentclass: scrreprt

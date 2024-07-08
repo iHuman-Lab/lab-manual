@@ -1,0 +1,12 @@
+# Welcome {.unnumbered}
+
+![](images/welcome.gif){fig-align="center"}
+
+Welcome to the `I`ntelligent `Hu`man-`Ma`chine `N`exus Lab (iHuman Lab)! Starting to work in a research lab can be overwhelming sometimes (we are all humans!). This manual is to help you make the transition into iHuman lab more enjoyable.
+
+This lab manual is crafted as your essential companion, designed to acquaint you with our lab’s operations, policies, and your rights and responsibilities as a valued member of the lab. Within these pages, you will find detailed explanations of the bill of rights and responsibilities, outlining both what you can expect from the lab environment and what is expected of you in terms of conduct, safety, and ethical standards. Clear and concise lab practices and policies are also delineated to ensure smooth integration into our research workflows.
+
+## Acknowledgment {.unnumbered}
+
+
+
