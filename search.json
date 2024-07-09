@@ -115,7 +115,7 @@
     "href": "lab_practices/authorship_guidlines.html",
     "title": "Authorship guidelines",
     "section": "",
-    "text": "The iHuman Lab follows the NIH Guidelines for Authorship in considering whether your contribution to a project merits authorship on the paper. If you have made a non-trivial contribution to a project but did not meet the requirements for authorship, you will instead receive a citation in the acknowledgements section of the paper.\n\n\n\n\n\n\nTask\n\n\n\nReview the NIH Guidelines for Authorship.\n\n\n\n\n\n\n\n\nNote\n\n\n\nConference posters and abstracts generally have substantially less stringent authorship requirements than formal papers. The general rule of thumb for posters is that all project team members should be co-authors.\n\n\nIn general, you likely meet the requirements for authorship if you contributed in any of the following ways:\n\nDrafted the manuscript (this warrants first authorship)\nCame up with the idea or made other substantial intellectual contributions that meaningfully shaped the trajectory of the project\nCarried out an original experimental study (e.g. that you designed or implemented)\nCarried out non-trivial data analyses (e.g. more complicated than t-tests)\nContributed novel tools or resources to the project that haven’t been published yet\n\nYou are unlikely to meet the requirements for authorship if your contributions were limited to the following:\n\nRunning experimental participants for an already-designed and coded-up study\nRunning trivial data analyses (e.g. t-tests or similar)\nGetting trained by one of the other project members on a project-related task\nTraining another project member on a project-related task\nSharing already-published tools or resources\nEditing or commenting on a draft of the manuscript\n\nThe final determination for who will be an author on each lab paper (and in what order) will be made by Hemanth, following open discussions with project team members.",
+    "text": "Old projects\nFor projects that required significant lab resources (e.g., EEG studies or any other study requiring a great deal of time, money, or lab effort): Project “ownership” expires 3 years after data collection has ended (or whenever the original primary lead relinquishes their rights to the study, whichever comes first). At that point, I reserve the right to re-assign the project (or not) as needed to expedite publication. This policy is intended to avoid situations in which a dataset languishes for a long period of time, while still giving publication priority to the original primary lead.",
     "crumbs": [
       "Lab practices and policies",
       "Authorship guidelines"
@@ -134,12 +134,12 @@
   {
     "objectID": "lab_practices/project_roles.html",
     "href": "lab_practices/project_roles.html",
-    "title": "Project roles",
+    "title": "Lab member roles",
     "section": "",
-    "text": "Project Owner. This is the person responsible for maximizing “return on investment” of the project effort. The project owner:\n\nIs responsible for project vision\nConstantly re-prioritizes the research backlog, adjusting any long-term expectations such as publication and release plans\nActs as the final arbiter of requirements questions\nAccepts or rejects each project increment\nDecides whether to publish/ship the project\nDecides whether to continue development\nConsiders interests of funding bodies (e.g. NIH, NSF, DARPA, private organizations) and the scientific community\nMay contribute as a team member\nHas a leadership role\nWill usually be Hemanth\n\nTeam Member. Team members are responsible for carrying out the project work. Team members:\n\nAre cross-functional: includes members with development skills (write code or papers/grants), testing skills (e.g. data collection, test software, proofread papers/grants), and/or domain expertise (e.g. knowledge or interest in a relevant research area)\nAre self-organizing and self-managing without externally assigned roles\nNegotiate commitments with the Project Owner, one “sprint” at a time\nHave autonomy regarding how to reach commitments (e) Are intensely collaborative\nAre (ideally) located in one team room (usually this will be the lab)\nAre (ideally) committed to long-term, consistent lab member- ship\nAre (ideally) focused on a single team/project at a time\nHave a leadership role\n\nProject Coordinator. The Project Coordinator facilitates the agile research process both directly and indirectly. The Project Coordinator:\n\nHelps to resolve impediments\nCreates an environment conducive to team self-organization\nCaptures empirical data to adjust forecasts (e.g. weekly Slack reports summarizing progress)\nShields the team from external interference and distraction to keep it “in the zone”\nEnforces timelines\nHas no management authority over the team (anyone with authority over the team is by definition not its Project Coordinator)\nHas a leadership role\nWill usually be either the Lab Coordinator (note: this position is currently vacant) or Hemanth.\n\nCollaborator. Collaborators are not formally part of the project team and generally will not attend regular meetings as part of the team. Importantly, collaborators do not have a leadership role in the project. They may carry out one or more of the following roles:\n\nProvide data or share equipment\nProvide occasional consulting services\nProvide occasional feedback on project results\nCarry out minor analyses\nProofread documents\nHelp with administrative tasks such as scheduling\nHelp with information technology tasks such as computer maintenance\n\nBy definition, collaborators play a minor role in the project, and they are not responsible for managing any aspect of the project. They may become Team Members if their involvement increases. Generally, collaborators will be included in a paper’s acknowledge- ment section, but collaborators are not normally co-authors.",
+    "text": "PI\n\nProvide the funding necessary to keep the lab going\nMeet with you regularly to discuss your research projects. The definition of “regularly” may change over time or over the course of a project, but for now, I mean once a week or more often as needed.\nGive you my perspective on academia and issues related to professional development\nSupport your career development by introducing you to other researchers in the field, writing recommendation letters for​ you, providing you with opportunities to attend conferences when possible, and promoting your work in talks\nCare about you as a person and not just a scientist\n\nProject Owner. This is the person responsible for maximizing “return on investment” of the project effort. The project owner:\n\nIs responsible for project vision\nConstantly re-prioritizes the research backlog, adjusting any long-term expectations such as publication and release plans\nActs as the final arbiter of requirements questions\nAccepts or rejects each project increment\nDecides whether to publish/ship the project\nDecides whether to continue development\nConsiders interests of funding bodies (e.g. NIH, NSF, DARPA, private organizations) and the scientific community\nMay contribute as a team member\nHas a leadership role\n\nTeam Member. Team members are responsible for carrying out the project work. Team members:\n\nAre cross-functional: includes members with development skills (write code or papers/grants), testing skills (e.g. data collection, test software, proofread papers/grants), and/or domain expertise (e.g. knowledge or interest in a relevant research area)\nAre self-organizing and self-managing without externally assigned roles\nNegotiate commitments with the Project Owner, one “sprint” at a time\nHave autonomy regarding how to reach commitments (e) Are intensely collaborative\nAre (ideally) located in one team room (usually this will be the lab)\nAre (ideally) committed to long-term, consistent lab member- ship\nAre (ideally) focused on a single team/project at a time\nHave a leadership role\n\nProject Coordinator. The Project Coordinator facilitates the agile research process both directly and indirectly. The Project Coordinator:\n\nHelps to resolve impediments\nCreates an environment conducive to team self-organization\nCaptures empirical data to adjust forecasts (e.g. weekly Slack reports summarizing progress)\nShields the team from external interference and distraction to keep it “in the zone”\nEnforces timelines\nHas no management authority over the team (anyone with authority over the team is by definition not its Project Coordinator)- Has a leadership role\nWill usually be either the Lab Coordinator (note: this position is currently vacant) or Hemanth.\n\nCollaborator. Collaborators are not formally part of the project team and generally will not attend regular meetings as part of the team. Importantly, collaborators do not have a leadership role in the project. They may carry out one or more of the following roles:\n\nProvide data or share equipment\nProvide occasional consulting services\nProvide occasional feedback on project results\nCarry out minor analyses\nProofread documents\nHelp with administrative tasks such as scheduling\nHelp with information technology tasks such as computer maintenance\n\nBy definition, collaborators play a minor role in the project, and they are not responsible for managing any aspect of the project. They may become Team Members if their involvement increases. Generally, collaborators will be included in a paper’s acknowledge- ment section, but collaborators are not normally co-authors.",
     "crumbs": [
       "Lab practices and policies",
-      "Project roles"
+      "Lab member roles"
     ]
   },
   {
@@ -179,7 +179,7 @@
     "href": "index.html#acknowledgment",
     "title": "iHuman Lab Manual",
     "section": "Acknowledgment",
-    "text": "Acknowledgment",
+    "text": "Acknowledgment\nThis lab manual draws inspiration from various sources, and in some sections, content has been adapted or reproduced from these sources. We acknowledge the following works for their influence:\nContext Dynamics Lab, The Memory Modulation Lab, Aly Lab, Peelle Lab, Ritchey Lab, Kemp Lab\nThis lab manual is licensed under the Creative Commons Attribution 4.0 International License. You are free to share, adapt, and redistribute the material in any medium or format, provided appropriate credit is given to the original authors and the source is properly cited.",
     "crumbs": [
       "Welcome"
     ]
@@ -232,6 +232,415 @@
     "text": "Congrats on making towards the end of the document. Please sign the below document and send it to ihuman.research.lab@gmail.com",
     "crumbs": [
       "Checklist and signature page"
+    ]
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Big Picture",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities.html",
+    "href": "rights_and_responsibilities.html",
+    "title": "Rights and responsibilities",
+    "section": "",
+    "text": "Your rights as a lab member",
+    "crumbs": [
+      "Rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities.html#your-rights-as-a-lab-member",
+    "href": "rights_and_responsibilities.html#your-rights-as-a-lab-member",
+    "title": "Rights and responsibilities",
+    "section": "",
+    "text": "You are entitled to a safe work environment free from harassment, abuse, violence, and discrimination in any form.\nYou are entitled to be supported and respected by all lab members.\nYou are entitled to openly share your scientific ideas and constructive feedback with all lab members.\nYou are entitled to appropriate credit (e.g. authorship, acknowledgement, letter of recommendation) for your work and ideas.",
+    "crumbs": [
+      "Rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities.html#your-responsibilities-as-a-lab-member",
+    "href": "rights_and_responsibilities.html#your-responsibilities-as-a-lab-member",
+    "title": "Rights and responsibilities",
+    "section": "Your responsibilities as a lab member",
+    "text": "Your responsibilities as a lab member\n\nYou agree to contribute to a safe work environment and to refrain from behaviors that harass, abuse, expose to violence, or discriminate.\nYou agree to support and respect all lab members, including yourself.\nYou agree to openly share your scientific ideas and constructive feedback with other lab members.\nYou agree to clearly communicate and document your contributions to each research project (e.g. through GitHub commits and issues, reports, updates on Slack, etc.).\nYou agree to establish open lines of communication between yourself and other lab members, and to address concerns or issues promptly and directly with the relevant parties (to the extent that you feel safe doing so).\nYou agree to carry out your work with integrity and diligence, adhering to the highest possible standards of scientific excellence.\nYou agree to utilize lab resources (including equipment, money, time, etc.) responsibly and sustainably.\nYou agree to maintain a clean workspace free from clutter, including both personal spaces (e.g. desks) and shared areas (couch, sink, testing rooms, etc.).\n\n\n\n\n\n\n\nTask\n\n\n\nRead this letter about defining and characterizing boundaries between lab members and noticing unhealthy norms.",
+    "crumbs": [
+      "Rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities.html#recourse",
+    "href": "rights_and_responsibilities.html#recourse",
+    "title": "Rights and responsibilities",
+    "section": "Recourse",
+    "text": "Recourse\nIf you feel your rights as a lab member have been, or are in danger of being, violated, it is your duty to report those violations immediately to a senior staff member (e.g. Hemanth, Department Chair, Deans, police, Title IX coordinator, ombudsman, etc.). Similarly, if you notice others endangering others’ rights, or neglecting their responsibilities, it is your duty to report those violations to a senior staff member.",
+    "crumbs": [
+      "Rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "overview.html#big-picture",
+    "href": "overview.html#big-picture",
+    "title": "Overview",
+    "section": "",
+    "text": "Do work that you are proud of. Do work that others will care about.\nDouble-check your work. Being a little obsessive is essential to good science.\nBe supportive of your labmates. We are a team.\nWork independently when you can, ask for help when you need it.\nShare your knowledge. Mentorship can take many forms.\nRespect each others’ strengths, weaknesses, differences, and beliefs.\nScience is a marathon, not a sprint. Take personal time/ vacation when you need it and cultivate a\nlife outside of the lab. Respect that other lab members also have a life outside of lab.\nCommunicate openly and respectfully with other members of the lab.\nIf you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Hemanth.\nAcademia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See section on Hours.",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "overview.html#small-picture",
+    "href": "overview.html#small-picture",
+    "title": "Overview",
+    "section": "Small Picture",
+    "text": "Small Picture\n\nDo not come into the lab if you are sick. Stay home and get healthy, and don’t risk getting others sick.\nNotify the lab manager or me if you will be out, either due to illness or vacation. Make a note on the lab calendar when you have plans to be out. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule. Please also update your Slack status.\nYou are not expected to come into lab on ​staff holidays.​ If you are being paid, then you a​ re expected to come into lab during university breaks (except for staff holidays or if you’re taking yourp​ aidvacationtime)​.\nLock the doors to the lab if no one else is around, even if you’re stepping out for a minute.\nKeep the lab tidy. Food messes should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you’re using lab equipment, put it away when you’re done.\nThe dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work. Jeans are fine, gym clothes and pajamas are not.\nArrive to lab at least 15 minutes before you have any experiments scheduled, so that you will be there to greet the participants.",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/rights_and_responsibilities.html",
+    "href": "rights_and_responsibilities/rights_and_responsibilities.html",
+    "title": "Rights and responsibilities",
+    "section": "",
+    "text": "Your rights as a lab member",
+    "crumbs": [
+      "Rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/rights_and_responsibilities.html#your-rights-as-a-lab-member",
+    "href": "rights_and_responsibilities/rights_and_responsibilities.html#your-rights-as-a-lab-member",
+    "title": "Rights and responsibilities",
+    "section": "",
+    "text": "You are entitled to a safe work environment free from harassment, abuse, violence, and discrimination in any form.\nYou are entitled to be supported and respected by all lab members.\nYou are entitled to openly share your scientific ideas and constructive feedback with all lab members.\nYou are entitled to appropriate credit (e.g. authorship, acknowledgement, letter of recommendation) for your work and ideas.",
+    "crumbs": [
+      "Rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/rights_and_responsibilities.html#your-responsibilities-as-a-lab-member",
+    "href": "rights_and_responsibilities/rights_and_responsibilities.html#your-responsibilities-as-a-lab-member",
+    "title": "Rights and responsibilities",
+    "section": "Your responsibilities as a lab member",
+    "text": "Your responsibilities as a lab member\n\nYou agree to contribute to a safe work environment and to refrain from behaviors that harass, abuse, expose to violence, or discriminate.\nYou agree to support and respect all lab members, including yourself.\nYou agree to openly share your scientific ideas and constructive feedback with other lab members.\nYou agree to clearly communicate and document your contributions to each research project (e.g. through GitHub commits and issues, reports, updates on Slack, etc.).\nYou agree to establish open lines of communication between yourself and other lab members, and to address concerns or issues promptly and directly with the relevant parties (to the extent that you feel safe doing so).\nYou agree to carry out your work with integrity and diligence, adhering to the highest possible standards of scientific excellence.\nYou agree to utilize lab resources (including equipment, money, time, etc.) responsibly and sustainably.\nYou agree to maintain a clean workspace free from clutter, including both personal spaces (e.g. desks) and shared areas (couch, sink, testing rooms, etc.).\n\n\n\n\n\n\n\nTask\n\n\n\nRead this letter about defining and characterizing boundaries between lab members and noticing unhealthy norms.",
+    "crumbs": [
+      "Rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/rights_and_responsibilities.html#recourse",
+    "href": "rights_and_responsibilities/rights_and_responsibilities.html#recourse",
+    "title": "Rights and responsibilities",
+    "section": "Recourse",
+    "text": "Recourse\nIf you feel your rights as a lab member have been, or are in danger of being, violated, it is your duty to report those violations immediately to a senior staff member (e.g. Hemanth, Department Chair, Deans, police, Title IX coordinator, ombudsman, etc.). Similarly, if you notice others endangering others’ rights, or neglecting their responsibilities, it is your duty to report those violations to a senior staff member.",
+    "crumbs": [
+      "Rights and responsibilities"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/overview.html",
+    "href": "rights_and_responsibilities/overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Big Picture",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/overview.html#big-picture",
+    "href": "rights_and_responsibilities/overview.html#big-picture",
+    "title": "Overview",
+    "section": "",
+    "text": "Do work that you are proud of. Do work that others will care about.\nDouble-check your work. Being a little obsessive is essential to good science.\nBe supportive of your labmates. We are a team.\nWork independently when you can, ask for help when you need it.\nShare your knowledge. Mentorship can take many forms.\nRespect each others’ strengths, weaknesses, differences, and beliefs.\nScience is a marathon, not a sprint. Take personal time/ vacation when you need it and cultivate a\nlife outside of the lab. Respect that other lab members also have a life outside of lab.\nCommunicate openly and respectfully with other members of the lab.\nIf you have an issue with another lab member that cannot be solved by talking with them about it, please talk with Hemanth.\nAcademia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See section on Hours.",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/overview.html#small-picture",
+    "href": "rights_and_responsibilities/overview.html#small-picture",
+    "title": "Overview",
+    "section": "Small Picture",
+    "text": "Small Picture\n\nDo not come into the lab if you are sick. Stay home and get healthy, and don’t risk getting others sick.\nNotify the lab manager or me if you will be out, either due to illness or vacation. Make a note on the lab calendar when you have plans to be out. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule. Please also update your Slack status.\nYou are not expected to come into lab on ​staff holidays.​ If you are being paid, then you a​ re expected to come into lab during university breaks (except for staff holidays or if you’re taking yourp​ aidvacationtime)​.\nLock the doors to the lab if no one else is around, even if you’re stepping out for a minute.\nKeep the lab tidy. Food messes should be cleaned up promptly, dirty dishes taken home with you, and common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you’re using lab equipment, put it away when you’re done.\nThe dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work. Jeans are fine, gym clothes and pajamas are not.\nArrive to lab at least 15 minutes before you have any experiments scheduled, so that you will be there to greet the participants.",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/project_roles.html",
+    "href": "rights_and_responsibilities/project_roles.html",
+    "title": "Lab member roles",
+    "section": "",
+    "text": "PI\n\nProvide the funding necessary to keep the lab going\nMeet with you regularly to discuss your research projects. The definition of “regularly” may change over time or over the course of a project, but for now, I mean once a week or more often as needed.\nGive you my perspective on academia and issues related to professional development\nSupport your career development by introducing you to other researchers in the field, writing recommendation letters for​ you, providing you with opportunities to attend conferences when possible, and promoting your work in talks\nCare about you as a person and not just a scientist\n\nProject Owner. This is the person responsible for maximizing “return on investment” of the project effort. The project owner:\n\nIs responsible for project vision\nConstantly re-prioritizes the research backlog, adjusting any long-term expectations such as publication and release plans\nActs as the final arbiter of requirements questions\nAccepts or rejects each project increment\nDecides whether to publish/ship the project\nDecides whether to continue development\nConsiders interests of funding bodies (e.g. NIH, NSF, DARPA, private organizations) and the scientific community\nMay contribute as a team member\nHas a leadership role\n\nTeam Member. Team members are responsible for carrying out the project work. Team members:\n\nAre cross-functional: includes members with development skills (write code or papers/grants), testing skills (e.g. data collection, test software, proofread papers/grants), and/or domain expertise (e.g. knowledge or interest in a relevant research area)\nAre self-organizing and self-managing without externally assigned roles\nNegotiate commitments with the Project Owner, one “sprint” at a time\nHave autonomy regarding how to reach commitments (e) Are intensely collaborative\nAre (ideally) located in one team room (usually this will be the lab)\nAre (ideally) committed to long-term, consistent lab member- ship\nAre (ideally) focused on a single team/project at a time\nHave a leadership role\n\nProject Coordinator. The Project Coordinator facilitates the agile research process both directly and indirectly. The Project Coordinator:\n\nHelps to resolve impediments\nCreates an environment conducive to team self-organization\nCaptures empirical data to adjust forecasts (e.g. weekly Slack reports summarizing progress)\nShields the team from external interference and distraction to keep it “in the zone”\nEnforces timelines\nHas no management authority over the team (anyone with authority over the team is by definition not its Project Coordinator)- Has a leadership role\nWill usually be either the Lab Coordinator (note: this position is currently vacant) or Hemanth.\n\nCollaborator. Collaborators are not formally part of the project team and generally will not attend regular meetings as part of the team. Importantly, collaborators do not have a leadership role in the project. They may carry out one or more of the following roles:\n\nProvide data or share equipment\nProvide occasional consulting services\nProvide occasional feedback on project results\nCarry out minor analyses\nProofread documents\nHelp with administrative tasks such as scheduling\nHelp with information technology tasks such as computer maintenance\n\nBy definition, collaborators play a minor role in the project, and they are not responsible for managing any aspect of the project. They may become Team Members if their involvement increases. Generally, collaborators will be included in a paper’s acknowledge- ment section, but collaborators are not normally co-authors.",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Lab member roles"
+    ]
+  },
+  {
+    "objectID": "members/lab_members.html",
+    "href": "members/lab_members.html",
+    "title": "Lab members",
+    "section": "",
+    "text": "PI\nHemanth Manjunatha (2024-)",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "members/lab_members.html#phd-students",
+    "href": "members/lab_members.html#phd-students",
+    "title": "Lab members",
+    "section": "PhD Students",
+    "text": "PhD Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "members/lab_members.html#master-students",
+    "href": "members/lab_members.html#master-students",
+    "title": "Lab members",
+    "section": "Master Students",
+    "text": "Master Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "members/lab_members.html#undergraduate-students",
+    "href": "members/lab_members.html#undergraduate-students",
+    "title": "Lab members",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/code_of_conduct.html",
+    "href": "rights_and_responsibilities/code_of_conduct.html",
+    "title": "Code of conduct",
+    "section": "",
+    "text": "The Quick Version\nThe lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of lab members in any form. Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions.",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Code of conduct"
+    ]
+  },
+  {
+    "objectID": "rights_and_responsibilities/code_of_conduct.html#the-less-quick-version",
+    "href": "rights_and_responsibilities/code_of_conduct.html#the-less-quick-version",
+    "title": "Code of conduct",
+    "section": "The Less Quick Version",
+    "text": "The Less Quick Version\nHarassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Members asked to stop any harassing behavior are expected to comply immediately. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Maureen Ritchey immediately. If Maureen is the cause of your concern, then please reach out to the department chair or another trusted departmental member who can assist. We expect members to follow these guidelines at any lab-related event.\nThis section was adapted from: c​ode of conduct.​",
+    "crumbs": [
+      "Rights and responsibilities",
+      "Code of conduct"
+    ]
+  },
+  {
+    "objectID": "lab_practices/scientific_integrity.html",
+    "href": "lab_practices/scientific_integrity.html",
+    "title": "Scientific integrity",
+    "section": "",
+    "text": "Reproducible research\nReproducible research is research that can be exactly reproduced. This is related to replicability, in that it has to do with your ability to get the same results again, but it refers specifically to getting the same results given the ​same set of data.​ I expect that all of our research will be, at minimum, reproducible (I hope that it will also be replicable).\nConducting reproducible research is more difficult than it sounds, because it requires that you are organized and possess sufficient foresight to document each step of your research process. There are two main things you can do to improve the reproducibility of your research: 1) extensive note-taking (i.e., as much as you can manage), 2) programming workflows with version control, and 3) extensive testing of code base and cross validation.\nProgramming workflows help with reproducibility because they take some of the human element out, and in an ideal scenario, you are left with a script or series of scripts that takes data from raw form to final product. Programming alone is not enough, though, because people can easily forget which script changes they made and when. Therefore, all projects that involve programming of any kind (so basically, all projects) must use some form of version control. I strongly recommend git in combination with GitHub, unless you have a pre-existing workflow. This is a hard requirement because\nPoints a, b, and c are directly relevant to the mission of conducting reproducible research.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Scientific integrity"
+    ]
+  },
+  {
+    "objectID": "lab_practices/scientific_integrity.html#experiment-pre-analysis-plans",
+    "href": "lab_practices/scientific_integrity.html#experiment-pre-analysis-plans",
+    "title": "Scientific integrity",
+    "section": "Experiment pre-analysis plans",
+    "text": "Experiment pre-analysis plans\nYou are encouraged to file a pre-analysis plan for any new study that you are beginning. I am flexible about the format of such a plan. Some trainees have opted to publish their pre-analysis plans on Open Science Framework. I do not require publishing these plans (except in particular circumstances that demand their use), but I do strongly encourage everyone to, at minimum, write one for your own personal reference. It is far too easy to forget what you planned to do at the start, before you saw any of the data, especially with EEG studies.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Scientific integrity"
+    ]
+  },
+  {
+    "objectID": "lab_practices/scientific_integrity.html#reproducible-research",
+    "href": "lab_practices/scientific_integrity.html#reproducible-research",
+    "title": "Scientific integrity",
+    "section": "",
+    "text": "it is the only way to definitively track the evolution of methods/files over time\nit allows for easier detection of bugs\nit facilitates code sharing\nit has nice side effects for workflow organization (e.g., thinking in terms of commits, branches, issues).",
+    "crumbs": [
+      "Lab practices and policies",
+      "Scientific integrity"
+    ]
+  },
+  {
+    "objectID": "lab_practices/human_subject_studies.html",
+    "href": "lab_practices/human_subject_studies.html",
+    "title": "Human subject studies",
+    "section": "",
+    "text": "Because we are engaged in human subjects research, it is of the ​utmost importance​ that we adhere to our approved IRB protocols. ​All lab members, including undergraduates, must read and comply with the IRB consent form and research summary for any project that they are working on. This is an absolute requirement. ​Lab members must also complete the CITI training and be added to the research personnel list before they can work with human subjects. If there are any questions about the protocols, or if you’re not sure whether we have IRB approval to run your study, please ask the lab manager or me for clarification. If necessary, the lab manager or me can file an amendment to an existing protocol or create a new protocol.\n\nCreate an account on CITI’s website. If you are a Oklahoma State University student or employee, choose Oklahoma State University as your organization affiliation and use your@okstate.edu email address to create your account. Oklahoma State University will cover your registration fee.\nContinue the registration process until you reach step 7. Select Human Subjects Research. Then select Group 2: Social/Behavioral Basic Course as your registration course. If you also need to complete the biomedical module, you will be able to add it after completing the social/behavioral module.\nThere are 16 required modules that need to be completed. Read/watch the material and complete the quiz at the end of each module. You will need to achieve a score of at least an 80% to pass. Quizzes may be reviewed and retaken.\n\nOnce you have finished the training module, send your Completion Certificate to Hemanth. To access your certificate:\n\nSign into your CITI account and select Records at the top of your home page.\nSelect View-Print-Share under Completion Record.\nUnder Completion Certificate, select View/Print. You do not need to share your Completion Report.\nDownload the PDF and send it to ihuman.research.lab@gmail.com\n\nWhen you run an experimental participant, you must have them sign a consent form. After each day of testing (or more frequently), you should give all signed consent forms to Hemanth by emailing them to ihuman.research.lab@gmail.com. Consent forms are kept in a locked file cabinet in Hemanth’s office. All experimental data must be stored securely, as per IRB guidelines. All lab computers employ disk encryption and password protection. If you need to copy unpublished data onto a non-lab computer, you need to verify (by checking in with Hemanth) that your computer satisfies our data security requirements. No personally identifiable data about our participants may ever be shared outside of the lab.\nIf you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from me or the lab manager. If I am not around, ​you must notify me w​ithin 24 hours​, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Human subject studies"
+    ]
+  },
+  {
+    "objectID": "getting_started_in_the_lab/getting_started_in_the_lab.html",
+    "href": "getting_started_in_the_lab/getting_started_in_the_lab.html",
+    "title": "Getting started in the lab",
+    "section": "",
+    "text": "The very first thing you need to do is to get set up on the following platforms, which will enable you to interact with the rest of the lab, download and use the lab’s software packages, and accomplish various necessary administrative tasks:\n\nSlack: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. If you have a Dartmouth College NetID you should be able to join the workspace by clicking the link. If you do not have a NetID, you’ll need to request one here.\nGitHub: This is used to manage all code, papers, grants, presentations, and posters. In other words, anything where it’d be useful to track multiple versions, anything that we might ultimately want to release to the public, and/or anything that multiple lab members will be collaborating on. Each project has one or more GitHub repositories. You should treat GitHub as a digital version of a “lab notebook” that contains a formal record of every contribution you make to your projects. We use GitHub logs to assign credit for ideas, code or writing contributions, determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via GitHub so that you receive appropriate credit for your ideas and maintain a continuous traceable log for your project.",
+    "crumbs": [
+      "Getting started in the lab"
+    ]
+  },
+  {
+    "objectID": "getting_started_in_the_lab/starting_a_new_project.html",
+    "href": "getting_started_in_the_lab/starting_a_new_project.html",
+    "title": "Starting a new project",
+    "section": "",
+    "text": "Joining a project\nTo join a project, simply subscribe to the project’s Slack channel and GitHub repository. All project communications should either be summarized on Slack or occur through Slack, whenever possible. This keeps notes searchable and visible to all team members (except direct messages, which are useful for non-project-related private communications between one or more team members).\nNote that, as a general rule, you should focus the majority of your efforts on one project at a time. This doesn’t mean you need to do the same thing every day (each project has many components and, as described above, the focus of lab projects will change over time), but it gives some sense of how you should be allocating your work time.\nIf you are a part-time employee of the lab, prior experience has shown that you will most likely be able to make a meaningful contribution to only a single project at a time. If you are a full-time employee, you may choose to devote some of your time to a secondary project (with the understanding that you will always prioritize your primary project). If you want to change which project is your primary project, or if you want to divide your time across multiple projects, you should coordinate this with Hemanth and your team members.",
+    "crumbs": [
+      "Getting started in the lab",
+      "Starting a new project"
+    ]
+  },
+  {
+    "objectID": "getting_started_in_the_lab/starting_a_new_project.html#joining-a-project",
+    "href": "getting_started_in_the_lab/starting_a_new_project.html#joining-a-project",
+    "title": "Starting a new project",
+    "section": "",
+    "text": "Note\n\n\n\nIf you create a new Slack channel for your project, invite Hemanth and other team members to join.",
+    "crumbs": [
+      "Getting started in the lab",
+      "Starting a new project"
+    ]
+  },
+  {
+    "objectID": "lab_practices/travel_policy.html",
+    "href": "lab_practices/travel_policy.html",
+    "title": "Travel policy",
+    "section": "",
+    "text": "A major component of doing scientific research is communicating with other scientists. The iHuman Lab regularly presents at several international scientific conferences. If you are presenting your work from the lab (i.e., you are the presenting author for a talk or poster), then your travel expenses and conference registration fees will be guaranteed by the lab, under the assumption that you will also make reasonable efforts to seek out alternative sources of travel funding (e.g. through PBS, other internal Dartmouth sources, applying for travel awards, using personal grants like NRSAs or NSF fellowships, etc.). You are also expected to keep costs low (e.g. fly economy class, seek out cheaper tickets, stay in reasonably priced hotels, share a room with other lab members, etc.). By the same token, we also want to be cognizant of your comfort and time, and it is not always necessary to use the cheapest option. More specific travel guidelines will be given on a per-conference or per-trip basis.\nIf you are not presenting your work (or if you’re presenting non-lab work), but you are a senior lab member, then the lab may cover your travel expenses to a limited number of conferences each year. These should be discussed on a case-by-case basis with Jeremy.\nIf you are a junior lab member not presenting your work, the lab will generally not pay for you to attend conferences. However, if you are interested in attending a conference, and you aren’t able to secure funding through non-lab sources, you should discuss your options with Jeremy.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Travel policy"
+    ]
+  },
+  {
+    "objectID": "lab_resources.html",
+    "href": "lab_resources.html",
+    "title": "Lab resources",
+    "section": "",
+    "text": "Computers\nAll lab members need a computer to get their work done. We generally prefer to use Linux machines, as this maximizes compatibility across lab members. Depending on your expected role in the lab and the specifics of your project, the lab may provide a computer to you, or you may be expected to use your personal computer to complete your work. Any equipment purchased by the lab, including personal computers, is the official property of the iHuman Lab and should be treated as such. All equipment must be returned to the lab when your association with the lab is complete. In addition to personal computers, we also maintain a lab account on Oklahoma State Universities Supercomputing Cluster.",
+    "crumbs": [
+      "Lab resources"
+    ]
+  },
+  {
+    "objectID": "lab_resources.html#other-research-equipment",
+    "href": "lab_resources.html#other-research-equipment",
+    "title": "Lab resources",
+    "section": "Other research equipment",
+    "text": "Other research equipment\nMany research projects require specialized research equipment (e.g. for neuroimaging using EEG, ECoG, etc.). Some of the necessary research equipment is owned by the iHuman Lab, and other equipment is shared with other labs affiliated with PBS or DHMC. All equipment should be treated with care and respect. Any malfunctions should be reported immediately.",
+    "crumbs": [
+      "Lab resources"
+    ]
+  },
+  {
+    "objectID": "lab_resources.html#repository-of-shared-lab-papers-and-books",
+    "href": "lab_resources.html#repository-of-shared-lab-papers-and-books",
+    "title": "Lab resources",
+    "section": "Repository of shared lab papers and books",
+    "text": "Repository of shared lab papers and books\nOur lab maintains a Dropbox repository of PDFs for internal use by lab members and affiliates. Contact Jeremy for a link (not to be shared publicly).",
+    "crumbs": [
+      "Lab resources"
+    ]
+  },
+  {
+    "objectID": "lab_members_and_alumni.html",
+    "href": "lab_members_and_alumni.html",
+    "title": "Lab members",
+    "section": "",
+    "text": "PI\nHemanth Manjunatha (2024-Present)",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "lab_members_and_alumni.html#phd-students",
+    "href": "lab_members_and_alumni.html#phd-students",
+    "title": "Lab members",
+    "section": "PhD Students",
+    "text": "PhD Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "lab_members_and_alumni.html#master-students",
+    "href": "lab_members_and_alumni.html#master-students",
+    "title": "Lab members",
+    "section": "Master Students",
+    "text": "Master Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "lab_members_and_alumni.html#undergraduate-students",
+    "href": "lab_members_and_alumni.html#undergraduate-students",
+    "title": "Lab members",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students",
+    "crumbs": [
+      "Lab members"
+    ]
+  },
+  {
+    "objectID": "lab_practices/getting_started_in_the_lab.html",
+    "href": "lab_practices/getting_started_in_the_lab.html",
+    "title": "Getting started in the lab",
+    "section": "",
+    "text": "The very first thing you need to do is to get set up on the following platforms, which will enable you to interact with the rest of the lab, download and use the lab’s software packages, and accomplish various necessary administrative tasks:\n\nSlack: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. If you have a Dartmouth College NetID you should be able to join the workspace by clicking the link. If you do not have a NetID, you’ll need to request one here.\nGitHub: This is used to manage all code, papers, grants, presentations, and posters. In other words, anything where it’d be useful to track multiple versions, anything that we might ultimately want to release to the public, and/or anything that multiple lab members will be collaborating on. Each project has one or more GitHub repositories. You should treat GitHub as a digital version of a “lab notebook” that contains a formal record of every contribution you make to your projects. We use GitHub logs to assign credit for ideas, code or writing contributions, determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via GitHub so that you receive appropriate credit for your ideas and maintain a continuous traceable log for your project.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Getting started in the lab"
+    ]
+  },
+  {
+    "objectID": "lab_practices/starting_a_new_project.html",
+    "href": "lab_practices/starting_a_new_project.html",
+    "title": "Starting a new project",
+    "section": "",
+    "text": "Joining a project\nTo join a project, simply subscribe to the project’s Slack channel and GitHub repository. All project communications should either be summarized on Slack or occur through Slack, whenever possible. This keeps notes searchable and visible to all team members (except direct messages, which are useful for non-project-related private communications between one or more team members).\nNote that, as a general rule, you should focus the majority of your efforts on one project at a time. This doesn’t mean you need to do the same thing every day (each project has many components and, as described above, the focus of lab projects will change over time), but it gives some sense of how you should be allocating your work time.\nIf you are a part-time employee of the lab, prior experience has shown that you will most likely be able to make a meaningful contribution to only a single project at a time. If you are a full-time employee, you may choose to devote some of your time to a secondary project (with the understanding that you will always prioritize your primary project). If you want to change which project is your primary project, or if you want to divide your time across multiple projects, you should coordinate this with Hemanth and your team members.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Starting a new project"
+    ]
+  },
+  {
+    "objectID": "lab_practices/starting_a_new_project.html#joining-a-project",
+    "href": "lab_practices/starting_a_new_project.html#joining-a-project",
+    "title": "Starting a new project",
+    "section": "",
+    "text": "Note\n\n\n\nIf you create a new Slack channel for your project, invite Hemanth and other team members to join.",
+    "crumbs": [
+      "Lab practices and policies",
+      "Starting a new project"
     ]
   }
 ]
