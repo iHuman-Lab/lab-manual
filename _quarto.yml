@@ -9,16 +9,24 @@ book:
   chapters:
     - index.qmd
     - introduction.qmd
-    - bill_of_rights_and_responsibilities.qmd
+    - part: rights_and_responsibilities/rights_and_responsibilities.qmd
+      chapters:
+        - rights_and_responsibilities/overview.qmd
+        - rights_and_responsibilities/project_roles.qmd
+        - rights_and_responsibilities/code_of_conduct.qmd
     - part: lab_practices/lab_practices_and_policies.qmd
       chapters:
+        - lab_practices/scientific_integrity.qmd
+        - lab_practices/making_mistakes.qmd
+        - lab_practices/human_subject_studies.qmd
+        - lab_practices/lab_meetings.qmd
+        - lab_practices/travel_policy.qmd
         - lab_practices/writing_research_paper.qmd
         - lab_practices/authorship_guidlines.qmd
-        - lab_practices/project_roles.qmd
-        - lab_practices/lab_meetings.qmd
-        - lab_practices/making_mistakes.qmd
-    - getting_started_in_the_lab.qmd
-    - lab_members.qmd
+        - lab_practices/getting_started_in_the_lab.qmd
+        - lab_practices/starting_a_new_project.qmd
+    - lab_resources.qmd
+    - lab_members_and_alumni.qmd
     - checklist_and_signature.qmd
     - references.qmd
 

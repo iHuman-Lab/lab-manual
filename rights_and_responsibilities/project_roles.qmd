@@ -1,0 +1,55 @@
+# Lab member roles {.unnumbered}
+
+**`PI`**
+
+- Provide the funding necessary to keep the lab going
+- Meet with you regularly to discuss your research projects. The definition of "regularly" may change
+over time or over the course of a project, but for now, I mean once a week or more often as needed.
+- Give you my perspective on academia and issues related to professional development
+- Support your career development by introducing you to other researchers in the field, writing recommendation letters for​ you, providing you with opportunities to attend conferences when possible, and promoting your work in talks
+- Care about you as a person and not just a scientist
+
+**`Project Owner`**. This is the person responsible for maximizing “return on investment” of the project effort. The project owner:
+
+- Is responsible for project vision
+- Constantly re-prioritizes the research backlog, adjusting any long-term expectations such as publication and release plans
+- Acts as the final arbiter of requirements questions
+- Accepts or rejects each project increment
+- Decides whether to publish/ship the project
+- Decides whether to continue development
+- Considers interests of funding bodies (e.g. NIH, NSF, DARPA, private organizations) and the scientific community
+- May contribute as a team member
+- Has a leadership role
+
+**`Team Member`**. Team members are responsible for carrying out the project work. Team members:
+
+- Are cross-functional: includes members with development skills (write code or papers/grants), testing skills (e.g. data collection, test software, proofread papers/grants), and/or domain expertise (e.g. knowledge or interest in a relevant research area)
+- Are self-organizing and self-managing without externally assigned roles
+- Negotiate commitments with the Project Owner, one “sprint” at a time
+- Have autonomy regarding how to reach commitments (e) Are intensely collaborative
+- Are (ideally) located in one team room (usually this will be the lab)
+- Are (ideally) committed to long-term, consistent lab member- ship
+- Are (ideally) focused on a single team/project at a time
+- Have a leadership role
+
+**`Project Coordinator`**. The Project Coordinator facilitates the agile research process both directly and indirectly. The Project Coordinator:
+
+- Helps to resolve impediments
+- Creates an environment conducive to team self-organization
+- Captures empirical data to adjust forecasts (e.g. weekly Slack reports summarizing progress)
+- Shields the team from external interference and distraction to keep it “in the zone”
+- Enforces timelines
+- Has no management authority over the team (anyone with authority over the team is by definition not its Project Coordinator)- Has a leadership role
+- Will usually be either the Lab Coordinator (note: this position is currently vacant) or Hemanth.
+
+**`Collaborator`**. Collaborators are not formally part of the project team and generally will not attend regular meetings as part of the team. Importantly, collaborators do not have a leadership role in the project. They may carry out one or more of the following roles:
+
+- Provide data or share equipment
+- Provide occasional consulting services
+- Provide occasional feedback on project results
+- Carry out minor analyses
+- Proofread documents
+- Help with administrative tasks such as scheduling
+- Help with information technology tasks such as computer maintenance
+
+By definition, collaborators play a minor role in the project, and they are not responsible for managing any aspect of the project. They may become Team Members if their involvement increases. Generally, collaborators will be included in a paper’s acknowledge- ment section, but collaborators are not normally co-authors.

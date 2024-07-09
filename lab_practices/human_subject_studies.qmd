@@ -1,0 +1,21 @@
+# Human subject studies {.unnumbered}
+
+Because we are engaged in human subjects research, it is of the ​utmost importance​ that we adhere to our approved IRB protocols. **​All lab members, including undergraduates, must read and comply with the IRB consent form and research summary for any project that they are working on. This is an absolute requirement.** ​Lab members must also complete the `CITI` training and be added to the research personnel list before they can work with human subjects. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab manager or me for clarification. If necessary, the lab manager or me can file an amendment to an existing protocol or create a new protocol.
+
+1. Create an account on CITI’s website. If you are a Oklahoma State University student or employee, choose Oklahoma State University as your organization affiliation and use your`@okstate.edu` email address to create your account. Oklahoma State University will cover your registration fee.
+2. Continue the registration process until you reach step 7. Select Human Subjects Research. Then select Group 2: Social/Behavioral Basic Course as your registration course. If you also need to complete the biomedical module, you will be able to add it after completing the social/behavioral module.
+3. There are 16 required modules that need to be completed. Read/watch the material and complete the quiz at the end of each module. You will need to achieve a score of at least an 80% to pass. Quizzes
+may be reviewed and retaken.
+
+Once you have finished the training module, send your Completion Certificate to Hemanth. To access your certificate:
+
+1. Sign into your CITI account and select Records at the top of your home page.
+2. Select View-Print-Share under Completion Record.
+3. Under Completion Certificate, select View/Print. You do not
+need to share your Completion Report.
+4. Download the PDF and send it to [ihuman.research.lab@gmail.com](ihuman.research.lab@gmail.com)
+
+When you run an experimental participant, you must have them sign a consent form. After each day of testing (or more frequently), you should give all signed consent forms to Hemanth by emailing them to [ihuman.research.lab@gmail.com](ihuman.research.lab@gmail.com). Consent forms are kept in a locked file cabinet in Hemanth's office.
+All experimental data must be stored securely, as per IRB guidelines. All lab computers employ disk encryption and password protection. If you need to copy unpublished data onto a non-lab computer, you need to verify (by checking in with Hemanth) that your computer satisfies our data security requirements. No personally identifiable data about our participants may ever be shared outside of the lab.
+
+If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from me or the lab manager. If I am not around, **​you must notify me w​ithin 24 hours**​, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
