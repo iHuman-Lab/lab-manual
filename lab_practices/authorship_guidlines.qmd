@@ -1,6 +1,6 @@
 # Authorship guidelines {.unnumbered}
 
-The iHuman Lab follows the [NIH Guidelines](https://oir.nih.gov/system/files/media/file/2024-07/guidelines-authorship_contributions.pdf){target="_blank"} for Authorship in considering whether your contribution to a project merits authorship on the paper. If you have made a non-trivial contribution to a project but did not meet the requirements for authorship, you will instead receive a citation in the acknowledgements section of the paper.
+The iHuman Lab follows the [NIH Guidelines](https://oir.nih.gov/system/files/media/file/2024-07/guidelines-authorship_contributions.pdf){target="_blank"} for authorship in considering whether your contribution to a project merits authorship on the paper. If you have made a non-trivial contribution to a project but did not meet the requirements for authorship, you will instead receive a citation in the acknowledgments section of the paper.
 
 :::{.callout-note title=Task}
 Review the [NIH Guidelines](https://oir.nih.gov/system/files/media/file/2024-07/guidelines-authorship_contributions.pdf){target="_blank"} for Authorship.
@@ -16,14 +16,14 @@ In general, you likely meet the requirements for authorship if you contributed i
 1. Drafted the manuscript (this warrants first authorship)
 2. Came up with the idea or made other substantial intellectual
 contributions that meaningfully shaped the trajectory of the project
-1. Carried out an original experimental study (e.g. that you designed or implemented)
-2. Carried out non-trivial data analyses (e.g. more complicated than t-tests)
-3. Contributed novel tools or resources to the project that haven’t been published yet
+1. Carried out an original experimental study (e.g., that you designed or implemented)
+2. Carried out non-trivial data analyses (e.g., more complicated than t-tests)
+3. Contributed novel tools or resources to the project that haven't been published yet
 
-You are unlikely to meet the requirements for authorship if your contributions were limited to the following:
+You are unlikely to meet the requirements for authorship if your contributions are limited to the following:
 
 1. Running experimental participants for an already-designed and coded-up study
-2. Running trivial data analyses (e.g. t-tests or similar)
+2. Running trivial data analyses (e.g., t-tests or similar)
 3. Getting trained by one of the other project members on a project-related task
 4. Training another project member on a project-related task
 5. Sharing already-published tools or resources
@@ -32,4 +32,4 @@ You are unlikely to meet the requirements for authorship if your contributions w
 The final determination for who will be an author on each lab paper (and in what order) will be made by Hemanth, following open discussions with project team members.
 
 ## Old projects
-For projects that required significant lab resources (e.g., EEG studies or any other study requiring a great deal of time, money, or lab effort): Project "ownership" expires 3 years after data collection has ended (or whenever the original primary lead relinquishes their rights to the study, whichever comes first). At that point, I reserve the right to re-assign the project (or not) as needed to expedite publication. This policy is intended to avoid situations in which a dataset languishes for a long period of time, while still giving publication priority to the original primary lead.
+For projects that required significant lab resources (e.g., EEG studies or any other study requiring a great deal of time, money, or lab effort): Project "ownership" expires 3 years after data collection has ended (or whenever the original primary lead relinquishes their rights to the study, whichever comes first). At that point, I reserve the right to re-assign the project (or not) as needed to expedite publication. This policy is intended to avoid situations in which a dataset languishes for a long period of time while still giving publication priority to the original primary lead.

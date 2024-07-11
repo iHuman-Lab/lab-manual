@@ -5,9 +5,9 @@ This lab manual is intended to provide a crash course in doing research in the i
 ## Who `is` this lab manual for?
 
 Every new lab member should read the latest version of this lab
-manual in detail and reference it later as needed. Periodically throughout the document, you will see call outs with listed `Task` items.
+manual in detail and reference it later as needed. Periodically throughout the document, you will see callouts with listed `Task` items.
 
-Completing your read through entails:
+Completing your read-through entails:
 
 * Reading the contents of the manual
 * Asking current lab members about any confusing aspects
@@ -15,17 +15,19 @@ Completing your read through entails:
 
 This lab manual is meant to be a `living document.` All lab members are welcome (and encouraged!) to submit edits that improve the content, clarity, and overall helpfulness of this document at any point throughout their tenure in the lab.
 What should you do if you don’t understand something? If you don’t understand something you read in this manual, it is
-important that you ask another lab member for help. Every member of the lab brings their own unique knowledge base, training, life experiences, and perspectives. Respecting and celebrating those differences drives the science we do. If you’re new to the lab or new to a particular technique, you might feel like a newbie today—but chances are good that if you stick around for a bit someone else will be seeking your expert opinion before you know it. In addition to learning, there’s another good reason for asking for help: if you don’t understand something, there’s a reasonable chance that you’ve discovered a mistake or a logical inconsistency!
+important that you ask another lab member for help. Every member of the lab brings their own unique knowledge base, training, life experiences, and perspectives. Respecting and celebrating those differences drives the science we do. If you’re new to the lab or new to a particular technique, you might feel like a newbie today—but chances are good that if you stick around for a bit, someone else will be seeking your expert opinion before you know it. In addition to learning, there’s another good reason for asking for help: if you don’t understand something, there’s a reasonable chance that you’ve discovered a mistake or a logical inconsistency!
 
 :::{.callout-note title=Task}
-Upon reading through this lab manual for the first time, please update the document to include your name in the Lab members section. Importantly, be sure to fork the GitHub repository, make your edit on your personal fork, and submit a pull request with your update.
+Upon reading through this lab manual for the first time, please update the document to include your name in the Lab members section. Importantly, be sure to fork the `GitHub` repository, make your edit on your personal fork, and submit a pull request with your update.
 :::
 
 ## Why is it worth my time to read through the manual?
 Aside from pursuing your own curiosity, a major reason that you’ve decided to join an academic research lab is probably because you want to gain training or career-advancing experiences. This manual briefly summarizes the collective wisdom of past and present lab members in a way that we think will best allow you to achieve your objectives. `Learn from it, challenge it, and add to it.`
 
 ## What `isn’t` this lab manual?
-
 This lab manual is not intended to provide a comprehensive overview of everything you need to know to do your research projects. As described next, you may not even know what you need to know to do your projects! Nevertheless, you need somewhere to start, and this is that place.
 
 We also maintain a repository of lab tutorials that provide guidance on specific tasks. If you are looking for help on a particular task (or understanding a particular concept) that isn’t covered by the existing set of tutorials, please consider contributing a tutorial of your own once you’ve figured things out!
+
+## Research project manual
+Along with this general lab manual, we will also use the [**research project manual**]() which provides comprehensive guidance on coding practices, the procedure for writing research papers, managing data effectively, structuring research projects, and accessing valuable learning resources. This supplementary resource is essential for ensuring that our research endeavors are conducted with precision, thoroughness, and adherence to best practices across all stages of our project development and documentation.

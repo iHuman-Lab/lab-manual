@@ -3,18 +3,25 @@
 Our lab uses a number of project management tools and policies to promote continuity across projects and lab members. First, make sure that your project doesn’t already exist (generally this involves asking Hemanth).
 The general steps to starting a project are:
 
-1. Create a Slack channel or decide on existing channel appropriate for project use.
-2. Coordinate with Hemanth to set up a `GitHub for Slack` integration between your project and channel by sending a link to the GitHub repo in the project’s Slack channel with a note asking to set up a Slack integration.
+1. Create a `Slack` channel or decide on existing channel appropriate for project use.
+2. Coordinate with Hemanth to set up a ``GitHub` for `Slack`` integration between your project and channel by sending a link to the `GitHub` repo in the project’s `Slack` channel with a note asking to set up a `Slack` integration.
 3. If your project involves testing human participants, verify with Hemanth that your project is covered under an existing active IRB protocol, and that you are listed on the protocol. (A list of active IRB protocols appears at the end of this lab manual.) Depending on the protocol, you may need to complete one or more online training courses to become certified to run your experiment. If no existing protocol is appropriate for your study, discuss with Hemanth whether it would be more appropriate to create a new protocol or submit an amendment for an existing protocol.
-4. Create an initial set of short-term action items for kicking off your project and post them to your project’s Slack channel.
+4. Create a `ClickUp` workspace and add Hemanth to the project.
+5. Create an initial set of short-term action items for kicking off your project in `ClickUp` and post them to your project’s `Slack` channel.
 
-## Joining a project
-To join a project, simply subscribe to the project’s Slack channel and GitHub repository. All project communications should either be summarized on Slack or occur through Slack, whenever possible. This keeps notes searchable and visible to all team members (except direct messages, which are useful for non-project-related private communications between one or more team members).
-
-:::{.callout-note title=Note}
-If you create a new Slack channel for your project, invite Hemanth and other team members to join.
+:::{.callout-note title=Task}
+Visit the [research project manual]() for details on the coding practices, research paper writing procedure, data management, structuring research project, and learning resources.
 :::
 
-Note that, as a general rule, you should focus the majority of your efforts on one project at a time. This doesn’t mean you need to do the same thing every day (each project has many components and, as described above, the focus of lab projects will change over time), but it gives some sense of how you should be allocating your work time.
+
+## Joining a project
+To join a project, simply subscribe to the project’s `Slack` channel, `ClickUp` project, and `GitHub` repository. All project communications should either be summarized on `Slack` or occur through `Slack`, whenever possible. This keeps notes searchable and visible to all team members (except direct messages, which are useful for non-project-related private communications between one or more team members).
+
+:::{.callout-tip title=Note}
+If you create a new `Slack` channel for your project, invite Hemanth and other team members to join.
+:::
+
+
+Note that, as a general rule, **you should focus the majority of your efforts on one project at a time**. This doesn’t mean you need to do the same thing every day (each project has many components and, as described above, the focus of lab projects will change over time), but it gives some sense of how you should be allocating your work time.
 
 If you are a part-time employee of the lab, prior experience has shown that you will most likely be able to make a meaningful contribution to only a single project at a time. If you are a full-time employee, you may choose to devote some of your time to a secondary project (with the understanding that you will always prioritize your primary project). If you want to change which project is your primary project, or if you want to divide your time across multiple projects, you should coordinate this with Hemanth and your team members.

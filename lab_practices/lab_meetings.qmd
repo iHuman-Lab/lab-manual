@@ -1,10 +1,8 @@
 # Lab meetings {.unnumbered}
 
-Our lab has largely been operating in a *hybrid* mode of work (i.e., partially remote and partially in-person), and in recent years our meeting schedule and requirements have reflected this reality.
+Our lab has largely been operating in a *hybrid* mode of work (i.e., partially remote and partially in-person), and in recent years our meeting schedule and requirements have reflected this reality. Moving forward, we are now gradually starting to incorporate more in-person interactions and meetings to facilitate more *spontaneous* interactions, discussions, and collaborations.
 
-Moving forward, we are now gradually starting to incorporate more in-person interactions and meetings to facilitate more *spontaneous* interactions, discussions, and collaborations.
-
-Effective lab communication requires forums for communicating. As described below, we use Slack to facilitate non-in-person communications. We also encourage in-person interactions as often as possible—ideally several times a week for group projects.
+Effective lab communication requires forums for communicating. We use `Slack` to facilitate non-in-person communications. We also encourage in-person interactions as often as possible—ideally several times a week for group projects.
 
 We’ll have the following regularly scheduled meetings:
 
@@ -27,3 +25,11 @@ You are also expected to present at one lab meeting per term. Possible presentat
 * Lead a discussion about some topic you think would be of interest to the group
 
 You can take up to an hour for your presentation or discussion, although taking less than an hour is great too. You can also share a meeting slot with one or more other lab members if you wish. (A presentation with another lab member can still “count” as a presentation for the given term.) Hemanth will send out a Google Sheets link where you can add yourself to the meeting schedule at the start of each term.
+
+* **Project meetings.** Several of our collaborative projects involve regular coordination within the lab and/or with external lab members. These are organized on an ad-hoc basis for each project. Attendees: all project team members and any other interested active lab members.
+* **Hackathons**. We occasionally organize hackathon style events whereby spontaneously organized groups work towards one or more very short term projects or goals. These are scheduled on an ad hoc basis. Attendees: all interested lab members, any interested member of the Dartmouth community, and external collaborators.
+* **Weekly snippets**. Each week, all paid employees must fill out a “weekly snippet” with brief answers to the following questions:
+  1. What did you work on over this past week?
+  2. What are you planning to work on this coming week?
+  3. What is impeding your progress (if anything)?
+  4. Anything else you’d like to add?
