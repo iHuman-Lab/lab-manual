@@ -1,8 +1,7 @@
 # Welcome {.unnumbered}
 
 
-It looks like you have recently joined the **`I`**ntelligent **`Hu`**man-**`Ma`**chine **`N`**exus Lab (iHuman Lab)!.
-That is great! We are really excited to have you as a part of our team and we will do what we can to make sure that you have a great time in our lab. We hope you will learn a lot about human and machine learning, and neuroscience, develop new and useful skills (coding, data analysis, writing papers, giving talks), make new friends, and have a great deal of fun throughout the whole process!!
+We are glad that you have decided to join **`I`**ntelligent **`Hu`**man-**`Ma`**chine **`N`**exus Lab (iHuman Lab)! We are really excited to have you as a part of our team and we will do what we can to make sure that you have a great time in our lab. We hope you will learn a lot about human and machines, and neuroscience, develop new and useful skills (coding, data analysis, writing papers, giving talks), make new friends, and have a great deal of fun throughout the whole process!!
 
 We are in this together and we are here to support you! Starting to work in a research lab can be overwhelming sometimes (we are all humans!). This manual is to help you make the transition into iHuman lab more enjoyable.
 
