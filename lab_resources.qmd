@@ -11,4 +11,4 @@ All lab members need a computer to get their work done. We generally prefer to u
 Many research projects require specialized research equipment (e.g. for neuroimaging using EEG, ECoG, etc.). Some of the necessary research equipment is owned by the iHuman Lab, and other equipment is shared with other labs affiliated with PBS or DHMC. All equipment should be treated with care and respect. Any malfunctions should be reported immediately.
 
 ## Repository of shared lab papers and books
-Our lab maintains a Dropbox repository of PDFs for internal use by lab members and affiliates. Contact Jeremy for a link (not to be shared publicly).
+Our lab maintains a Dropbox repository of PDFs for internal use by lab members and affiliates. Contact Hemanth for a link (not to be shared publicly).

@@ -21,11 +21,11 @@ book:
         - lab_practices/lab_meetings.qmd
         - lab_practices/travel_policy.qmd
         - lab_practices/human_subject_studies.qmd
-        # - lab_practices/writing_research_paper.qmd
         - lab_practices/authorship_guidlines.qmd
         - lab_practices/getting_started_in_the_lab.qmd
         - lab_practices/starting_a_new_project.qmd
         - lab_practices/deadlines.qmd
+        - lab_practices/lab_attendance.qmd
         - lab_practices/lab_traditions.qmd
     - lab_resources.qmd
     - lab_members_and_alumni.qmd

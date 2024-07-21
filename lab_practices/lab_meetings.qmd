@@ -7,7 +7,7 @@ Effective lab communication requires forums for communicating. We use `Slack` to
 We’ll have the following regularly scheduled meetings:
 
 :::{.callout-important title=Important}
-Lab meetings. Starting in the winter, 2024 term, we will be re-instating weekly lab meetings, to be held on Tuesdays from 1:30 - 2:30 PM (CST) in our main lab space.
+Lab meetings. Starting in the fall, 2024 term to be held on Tuesdays from 1:30 - 2:30 PM (CST) in our main lab space.
 :::
 
 If you are an active lab member, you are expected to attend our lab meetings unless you let Hemanth know that you have a conflict (e.g., a course that meets at the same time, another commitment that comes up, etc.). It is important to prioritize

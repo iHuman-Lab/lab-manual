@@ -2,11 +2,23 @@
 
 The very first thing you need to do is to get set up on the following platforms, which will enable you to interact with the rest of the lab, download and use the lab’s software packages, and accomplish various necessary administrative tasks:
 
-1. **``Slack``**: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. If you have a Dartmouth College NetID you should be able to join the workspace by clicking the link. If you do not have a NetID, you’ll need to request one here.
+1. **``Slack``**: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. If you have a Dartmouth College NetID you should be able to join the workspace by clicking the link. If you do not have a NetID, you’ll need to request one here. Here are some tutorials to get started with Slack:
 
-2. **``GitHub``**: This is used to manage all code, papers, grants, presentations, and posters. In other words, anything where it’d be useful to track multiple versions, anything that we might ultimately want to release to the public, and/or anything that multiple lab members will be collaborating on. Each project has one or more `GitHub` repositories. You should treat `GitHub` as a digital version of a “lab notebook” that contains a formal record of every contribution you make to your projects. We use `GitHub` logs to assign credit for ideas, code or writing contributions, determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via `GitHub` so that you receive appropriate credit for your ideas and maintain a continuous traceable log for your project.
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=geC_RBm7HWjm73so&amp;list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>
 
-3. **``ClickUp``**: This serves as our essential management tool for meticulously tracking project progress and priorities. Leveraging the Kanban method extensively, we visualize our workflows dynamically. This allows us to categorize tasks into clear stages, from planning and experimentation to analysis and publication. By visualizing our project in this manner, we can easily identify bottlenecks, prioritize tasks, and decide which parts of the project to focus on at any given time.
+2. **``GitHub``**: This is used to manage all code, papers, grants, presentations, and posters. In other words, anything where it’d be useful to track multiple versions, anything that we might ultimately want to release to the public, and/or anything that multiple lab members will be collaborating on. Each project has one or more `GitHub` repositories. You should treat `GitHub` as a digital version of a “lab notebook” that contains a formal record of every contribution you make to your projects. We use `GitHub` logs to assign credit for ideas, code or writing contributions, determine authorship order, and more. It is therefore critical that you regularly check in (commit) your work via `GitHub` so that you receive appropriate credit for your ideas and maintain a continuous traceable log for your project. Here are some tutorials to get started with GitHub:
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=AzfotQgy0j-SF1MK&amp;list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>
+
+3. **``ClickUp``**: This serves as our essential management tool for meticulously tracking project progress and priorities. Leveraging the [Kanban](https://www.youtube.com/watch?v=OAw-sUQwMSk){target='_blank_'} method extensively, we visualize our workflows dynamically. This allows us to categorize tasks into clear stages, from planning and experimentation to analysis and publication. By visualizing our project in this manner, we can easily identify bottlenecks, prioritize tasks, and decide which parts of the project to focus on at any given time. Here are some tutorials to get started with ClickUp:
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=spgC9s3VthosHv8M&amp;list=PLxRzBtka0l4xXSbWOqx9PETfJPpoYwHrh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>
 
 :::{.callout-note title=Task}
 Create (free) `ClickUp`, `Slack`, and `GitHub` accounts. Also initiate a request to join our `Slack` workspace via this link.

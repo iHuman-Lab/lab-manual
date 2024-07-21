@@ -12,8 +12,9 @@ Example scenarios (not an exhaustive list):
 
 Appropriate actions for each of the above scenarios (this should happen immediately after you notice the mistake):
 
-1. Double check, to the best of your ability, that the mistake is real. This may involve checking over code, rebooting a computer and restarting an experiment, re-reading reference text, etc.
-2. Create a `GitHub` issue describing the problem. Provide information about how to reproduce the problem (if applicable), the expected behavior, and the observed behavior. Also, provide any relevant system or environment information that may be necessary for reproducing the problem (e.g. details of the computing environment).
-3. Coordinate over `Slack` with your project team to formulate an action plan.
-4. Ask other lab members for help if the course of action isn’t clear. Also, try Google and/or Stack Exchange.
-If you think you might have caught a mistake but aren’t sure, consult with another lab member! It never hurts to be safe!
+1. Verify: Double-check to confirm the mistake. Review your code, re-run experiments if necessary, or revisit reference materials.
+2. Report: Create a GitHub issue detailing the problem. Include information on how to replicate the issue, expected versus observed behavior, and any relevant system details like operating environment and software versions.
+3. Collaborate: Use Slack or other communication channels to discuss the issue with your project team. Collaborate to understand the root cause and formulate an effective plan of action.
+4. Seek guidance: If unsure, reach out to colleagues for assistance. Utilize resources like Google or Stack Exchange to explore potential solutions.
+
+Remember, consulting with others when in doubt is always a wise move. Every mistake is an opportunity for growth and improvement, contributing to our collective journey as scientists. Let's continue fostering an environment where learning from mistakes is celebrated and supported, ensuring that our work maintains its highest standards of quality and reliability.

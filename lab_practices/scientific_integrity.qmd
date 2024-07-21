@@ -1,18 +1,28 @@
 # Scientific integrity {.unnumbered}
 
-## Reproducible research
-Reproducible research is research that can be exactly reproduced. This is related to replicability, in that it has to do with your ability to get the same results again, but it refers specifically to getting the same results given the ​same set of data.​ I expect that all of our research will be, at minimum, reproducible (I hope that it will also be replicable).
+Scientific integrity is the cornerstone of credible research, ensuring that scientific findings are trustworthy, transparent, and reproducible. Upholding scientific integrity involves adhering to ethical principles and best practices throughout the research process. Here are key aspects to consider:
 
-Conducting reproducible research is more difficult than it sounds, because it requires that you are organized and possess sufficient foresight to document each step of your research process. There are two main things you can do to improve the reproducibility of your research: 1) extensive note-taking (i.e., as much as you can manage), 2) programming workflows with version control, and 3) extensive testing of code base and cross validation.
+Reproducible research is a research that can be exactly reproduced. This is related to replicability, in that it has to do with your ability to get the same results again, but it refers specifically to getting the same results given the ​same set of data.​ I expect that all of our research will be, at minimum, reproducible (I hope that it will also be replicable).
 
-Programming workflows help with reproducibility because they take some of the human element out, and in an ideal scenario, you are left with a script or series of scripts that takes data from raw form to final product. Programming alone is not enough, though, because people can easily forget which script changes they made and when. Therefore, all projects that involve programming of any kind (so basically, all projects) must use some form of version control. I strongly recommend `git` in combination with ``GitHub``, unless you have a pre-existing workflow. This is a hard requirement because
+Conducting reproducible research is more difficult than it sounds, because it requires that you are organized and possess sufficient foresight to document each step of your research process. There are main things you can do to improve the reproducibility of your research:
 
-a) it is the only way to definitively track the evolution of methods/files over time
-b) it allows for easier detection of bugs
-c) it facilitates code sharing
-d) it has nice side effects for workflow organization (e.g., thinking in terms of commits, branches, issues).
+## Transparency and Openness
 
-Points a, b, and c are directly relevant to the mission of conducting reproducible research.
+- Making research data accessible for scrutiny and reuse, promoting transparency and collaboration.
+- Publishing findings in accessible journals or platforms to facilitate knowledge sharing.
+- Describing research methodologies and analytical approaches comprehensively for others to replicate or build upon.
+
+## Ethical Conduct
+
+- Ensuring informed consent, protecting privacy and confidentiality, and minimizing harm to participants.
+- Clearly reporting methods, data, results, and any conflicts of interest.
+- Following ethical guidelines and regulatory requirements specific to the field of study.
+
+## Reproducibility and Rigor
+
+- Keeping detailed records of methods, procedures, and data management practices.
+- Validating findings through independent replication or robust statistical analyses.
+- Conducting thorough quality checks to minimize errors and biases in data collection, analysis, and interpretation.
 
 ## Experiment pre-analysis plans
 You are encouraged to file a pre-analysis plan for any new study that you are beginning. I am flexible about the format of such a plan. Some trainees have opted to publish their pre-analysis plans on Open Science Framework. I do not require publishing these plans (except in particular circumstances that demand their use), but I do strongly encourage everyone to, at minimum, write one for your own personal reference. It is far too easy to forget what you planned to do at the start, before you saw any of the data, especially with EEG studies.

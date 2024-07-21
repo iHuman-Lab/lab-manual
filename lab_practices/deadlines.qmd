@@ -1,7 +1,15 @@
 # Deadlines {.unnumbered}
 
-One way of maintaining sanity in the academic world is to be as organized as possible. This is essential because disorganization does not just hurt you; it hurts your collaborators and the people who need help. When it comes to deadlines, tell your collaborators as soon as you know when a deadline is, and make sure they are aware of it the closer it gets. Do not be afraid to bug them about it (yes, bug Hemanth as well).
+Maintaining sanity in academia is a fine art, and organization is your best-friend! It's not just about keeping your own ship sailing smoothly; it's about ensuring everyone in your academic crew stays on course. When deadlines loom, be the lighthouse: as soon as you know a deadline, signal your collaborators and keep them informed as the date approaches. And yes, even bug Hemanth if you must—after all, timely reminders keep the research ship afloat and cruising toward success!
 
-- Give Hemanth at least one week’s notice to do something with a hard deadline that does not require a lot of time (e.g., reading/commenting on conference abstracts, filling out paperwork, etc.).
-- Give Hemanth at least two weeks’ notice (preferably more)to do something with a hard deadline that requires a moderate amount of time (e.g., a letter of recommendation).
-- If you want feedback on research and teaching statements or other work that requires multiple back-and-forth interactions between you and Hemanth before a hard deadline, give him as much time as you can, at the very least three weeks. For manuscript submissions and revisions (i.e., which either have no deadline at all or only a weak deadline), send drafts to Hemanth as soon as you have them, and bug him to give you feedback if he has not responded in two weeks – papers are important!
+- For time-sensitive tasks like reviewing conference abstracts or completing paperwork, give Hemanth at least one week's notice. This allows him to approach the task promptly and deliver results without unnecessary rush.
+
+- Projects requiring moderate effort, such as crafting letters of recommendation, benefit from a bit more lead time. Providing Hemanth with at least two weeks ensures he can dedicate the necessary attention to detail.
+
+- When collaborating on research and teaching statements, a minimum of three weeks allows for productive discussions and ensures the final product reflects thorough consideration and expertise.
+
+- For manuscripts, pivotal to academic contributions, share drafts as soon as they're ready. If a response is delayed beyond two weeks, a gentle reminder ensures timely feedback, contributing to a seamless publication process.
+
+:::{.callout-tip}
+Utilizing ClickUp boards helps us keep track of deadlines and progress seamlessly.
+:::

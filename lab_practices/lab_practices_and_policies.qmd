@@ -2,7 +2,6 @@
 
 Our lab’s practices and policies are intended to provide a framework for maximizing efficiency. Achieving our peak efficiency as a lab means we are being as scientifically productive as possible, in terms of knowledge discovery (learning new stuff) and dissemination (papers, talks, conference presentations, publicly released datasets, software, etc.). It also means that our fellow lab members are achieving their training and career objectives. To achieve peak efficiency, we follow these principles:
 
-
 * **`Collaboration`**: Our lab benefits greatly by being an intellectually diverse team. We bring in expertise from many disciplines, e.g., Computer Science, Neuroscience, Biomedical Engineering. No one in the lab (including myself) has the background necessary to tackle all the problems we're trying to solve. Therefore, the only way we can be successful is by fostering an openly collaborative and communicative environment. Ultimately, our group strongly selects for team members who are comfortable admitting what they don't know and learning new material as they go (both through independent research and discussion with colleagues).
 
 * **`Patience`**: As mentioned above - if we already knew the answer, we would not be studying the question. Similarly, if the work was easy, usually someone else would've done it already. From that standpoint, we fundamentally expect our experiments and approaches to fail more often than they succeed. So while we're always shooting for success, it's important to have thick skin and not get overly frustrated when things aren't working out. Just keep working diligently, keep thinking through the problem, and keep discussing it with your colleagues. It's also important to continually make honest evaluations on whether a problem is worth pushing on further, or when it's worth cutting our losses and moving on.
@@ -20,7 +19,6 @@ Our lab’s practices and policies are intended to provide a framework for maxim
 * **`Positivity`**: Everyone on our team is working on a challenging set of problems. Being positive and supportive makes the endeavor more enjoyable for everyone. If you run into issues where it's difficult to be positive and supportive with your colleagues, take a break and come talk to me, we'll work something out.
 
 * **`Balance`**: Don't try to work 24/7, if for no other reason than you'll just find yourself staring at a screen without doing anything productive. Work smarter - I find it helpful to create focused blocks where I eliminate distractions. However you do it, make sure you take breaks to refresh your mind, and have a life outside of lab. There are obvious benefits for your mental health, but you'll also find yourself refreshed and productive when you do get back to work.
-
 
 * **`Resource allocation`**: Our lab resources (e.g. equipment, time, money, attention) are finite. We want to foster an environment where lab resources are used as efficiently as possible to achieve our collective goals. We also want to foster sustainable use of resources by regularly pursuing research funding opportunities.
 
