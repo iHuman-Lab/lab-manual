@@ -6,6 +6,9 @@ book:
   author: 'Hemanth Manjunatha'
   date: today
   page-navigation: true
+  sidebar:
+    logo: images/logo.png
+    search: true
   chapters:
     - index.qmd
     - introduction.qmd
