@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.557">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -94,7 +94,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="../">iHuman Lab Manual</a> 
     </div>
@@ -274,7 +277,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p>The very first thing you need to do is to get set up on the following platforms, which will enable you to interact with the rest of the lab, download and use the lab’s software packages, and accomplish various necessary administrative tasks:</p>
 <ol type="1">
-<li><strong><code>Slack</code></strong>: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. If you have a Dartmouth College NetID you should be able to join the workspace by clicking the link. If you do not have a NetID, you’ll need to request one here. Here are some tutorials to get started with Slack:</li>
+<li><strong><code>Slack</code></strong>: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. Here are some tutorials to get started with Slack:</li>
 </ol>
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=geC_RBm7HWjm73so&amp;list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
@@ -304,7 +307,7 @@ Task
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Create (free) <code>ClickUp</code>, <code>Slack</code>, and <code>GitHub</code> accounts. Also initiate a request to join our <code>Slack</code> workspace via this link.</p>
+<p>Create (free) individual <code>ClickUp</code>, <code>Slack</code>, and <code>GitHub</code> accounts. Once you create the account(s) send a request to Hemanth via <a href="">ihuman.research.lab@gmail.com</a> along with the respective email addresses used <code>ClickUp</code>, <code>Slack</code>, and <code>GitHub</code> to add you the lab’s account.</p>
 </div>
 </div>
 <p>Once you’ve created those accounts, you can ask any questions through <code>Slack</code> (use the #general channel or the channel specific your project). Depending on your role in the lab, you may be added on <code>Slack</code> as a single-channel guest (access to only one channel) or a in the #general channel through the Workflows menu (usually near the top left of the window). Once you initiate the workflow, you’ll be guided through the onboarding process.</p>
@@ -391,6 +394,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -425,7 +446,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');

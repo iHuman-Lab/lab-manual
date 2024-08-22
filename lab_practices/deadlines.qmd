@@ -11,5 +11,5 @@ Maintaining sanity in academia is a fine art, and organization is your best-frie
 - For manuscripts, pivotal to academic contributions, share drafts as soon as they're ready. If a response is delayed beyond two weeks, a gentle reminder ensures timely feedback, contributing to a seamless publication process.
 
 :::{.callout-tip}
-Utilizing ClickUp boards helps us keep track of deadlines and progress seamlessly.
+Utilizing `ClickUp` boards helps us keep track of deadlines and progress seamlessly.
 :::

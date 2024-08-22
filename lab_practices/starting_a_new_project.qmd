@@ -1,16 +1,14 @@
 # Starting a new project {.unnumbered}
 
 Our lab uses a number of project management tools and policies to promote continuity across projects and lab members. First, make sure that your project doesn’t already exist (generally this involves asking Hemanth).
-The general steps to starting a project are:
+The general steps to starting a project are once you are added to  `ClickUp`, `Slack`, and `GitHub` account:
 
 1. Create a `Slack` channel or decide on existing channel appropriate for project use.
-2. Coordinate with Hemanth to set up a `GitHub for Slack` integration between your project and channel by sending a link to the `GitHub` repo in the project’s `Slack` channel with a note asking to set up a `Slack` integration.
-3. If your project involves testing human participants, verify with Hemanth that your project is covered under an existing active IRB protocol, and that you are listed on the protocol. Depending on the protocol, you may need to complete one or more online training courses to become certified to run your experiment. If no existing protocol is appropriate for your study, discuss with Hemanth whether it would be more appropriate to create a new protocol or submit an amendment for an existing protocol.
-4. Create a `ClickUp` workspace and add Hemanth to the project.
-5. Create an initial set of short-term action items for kicking off your project in `ClickUp` and post them to your project’s `Slack` channel.
+2. If your project involves testing human participants, verify with Hemanth that your project is covered under an existing active IRB protocol, and that you are listed on the protocol. Depending on the protocol, you may need to complete one or more online training courses to become certified to run your experiment. If no existing protocol is appropriate for your study, discuss with Hemanth whether it would be more appropriate to create a new protocol or submit an amendment for an existing protocol.
+3. Create an initial set of short-term action items for kicking off your project in `ClickUp`.
 
 :::{.callout-note title=Task}
-Visit the [research project manual]() for details on the coding practices, research paper writing procedure, data management, structuring research project, and learning resources.
+Visit the [research project manual](https://ihuman-lab.github.io/research-manual/){target='_blank_'} for details on the coding practices, research paper writing procedure, data management, structuring research project, and learning resources.
 :::
 
 

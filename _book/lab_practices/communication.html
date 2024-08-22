@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.557">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -94,7 +94,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="../">iHuman Lab Manual</a> 
     </div>
@@ -278,7 +281,7 @@ ul.task-list li input[type="checkbox"] {
 <li>A second issue is that we’re often afraid of “bothering” more senior people (undergrads worry about bothering grad students, grad students worry about bothering postdocs, everybody worries about bothering the PI, etc). I feel the same way about potentially bothering my own mentors and supervisors! Fight that instinct. Bottom line - I much prefer that people in the lab speak up, and I have no problem telling people if they are in fact bothering me (so far, this has never happened). If these are sources of anxiety, I totally get it. However, if it’s possible to overcome them, your time in lab will end up being much easier, and likely your productivity will increase quite a bit!</li>
 </ul>
 <p>If these are sources of anxiety, I totally get it. However, if it’s possible to overcome them, your time in lab will end up being much easier, and likely your productivity will increase quite a bit!</p>
-<p>In general, I <em>do not</em> expect you feel the need to respond to things on weekends or after hours. I do sometimes send emails or <code>Slack</code> messages during those times - that’s just because I get to stuff when I get to it. Don’t feel pressured to respond until you’re back to work yourself! I only expect you to be responsive after hours during specific critical time periods (e.g., right before a submission deadline or leading up to a conference presentation). We should be able to anticipate those cases and agree upon a strategy in advance. If there’s anything distressing about off-hours messages, just let me know, and I’ll try not to bother you during those times.</p>
+<p>In general, I <em>do not</em> expect you to respond to things on weekends or after hours. I do sometimes send emails or <code>Slack</code> messages during those times - that’s just because I get to stuff when I get to it. Don’t feel pressured to respond until you’re back to work yourself! I only expect you to be responsive after hours during specific critical time periods (e.g., right before a submission deadline or leading up to a conference presentation). We should be able to anticipate those cases and agree upon a strategy in advance. If there’s anything distressing about off-hours messages, just let me know, and I’ll try not to bother you during those times.</p>
 
 
 
@@ -362,6 +365,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -396,7 +417,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');

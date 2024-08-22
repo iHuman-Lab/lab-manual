@@ -2,7 +2,7 @@
 
 The very first thing you need to do is to get set up on the following platforms, which will enable you to interact with the rest of the lab, download and use the lab’s software packages, and accomplish various necessary administrative tasks:
 
-1. **``Slack``**: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. If you have a Dartmouth College NetID you should be able to join the workspace by clicking the link. If you do not have a NetID, you’ll need to request one here. Here are some tutorials to get started with Slack:
+1. **``Slack``**: This is where almost all not-in-person lab communications take place. It provides an interface for asking questions, storing notes, and sharing ideas. Here are some tutorials to get started with Slack:
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=geC_RBm7HWjm73so&amp;list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -21,7 +21,7 @@ The very first thing you need to do is to get set up on the following platforms,
 <p>
 
 :::{.callout-note title=Task}
-Create (free) `ClickUp`, `Slack`, and `GitHub` accounts. Also initiate a request to join our `Slack` workspace via this link.
+Create (free) individual `ClickUp`, `Slack`, and `GitHub` accounts. Once you create the account(s) send a request to Hemanth via [ihuman.research.lab@gmail.com]() along with the respective email addresses used `ClickUp`, `Slack`, and `GitHub` to add you the lab's account.
 :::
 
 Once you’ve created those accounts, you can ask any questions through `Slack` (use the #general channel or the channel specific your project). Depending on your role in the lab, you may be added on `Slack` as a single-channel guest (access to only one channel) or a in the #general channel through the Workflows menu (usually near the top left of the window). Once you initiate the workflow, you’ll be guided through the onboarding process.
