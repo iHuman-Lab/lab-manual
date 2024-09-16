@@ -25,3 +25,105 @@ Create (free) individual `ClickUp`, `Slack`, and `GitHub` accounts. Once you cre
 :::
 
 Once you’ve created those accounts, you can ask any questions through `Slack` (use the #general channel or the channel specific your project). Depending on your role in the lab, you may be added on `Slack` as a single-channel guest (access to only one channel) or a in the #general channel through the Workflows menu (usually near the top left of the window). Once you initiate the workflow, you’ll be guided through the onboarding process.
+
+## Lab website {#sec-labwebsite}
+Once you have your accounts set up, you’ll need to add your profile to the lab’s website. Follow these steps to fork the repository, create your profile folder, and add your details.
+
+### Step 1: Fork the Lab Website Repository
+
+1. Go to the [lab website GitHub repository](https://github.com/iHuman-Lab/lab-website){target='_blank_'}.
+2. Click on the **Fork** button in the top-right corner of the page. This will create a copy of the repository under your own GitHub account.
+
+### Step 2: Clone Your Forked Repository
+
+1. On your GitHub account, navigate to your forked repository.
+2. Click the **Code** button and copy the repository URL.
+3. Open your terminal and clone the repository to your local machine using:
+   ```bash
+   git clone <your-repository-url>
+   ```
+4. Navigate to the repository directory:
+   ```bash
+   cd lab-website
+   ```
+
+### Step 3: Add Your Profile Folder
+
+1. In the `people` directory, find the folder corresponding to your role in the lab:
+
+   ```{.bash}
+   people/
+   ├── pi/
+   ├── phd/
+   ├── master/
+   ├── undergraduate/
+   └── alumni/
+   ```
+
+2. If you are a `master` student, create a new folder with your name under the `master` directory. Replace `"your_name"` with your actual name:
+
+   ```bash
+   mkdir -p people/master/"your_name"
+   ```
+
+   For other roles, replace `master` with `pi`, `phd`, `undergraduate`, or `alumni` accordingly.
+
+### Step 4: Add Your Profile Details
+
+1. Inside your folder (e.g., `people/master/"your_name"`), add your profile photo and index file.
+
+2. Your photo should be named `avatar.jpg`. Add this photo to your folder:
+   ```bash
+   cp path/to/your/photo.jpg people/master/"your_name"/avatar.jpg
+   ```
+
+3. Create an `index.qmd` file in the same folder. Use the following content template for `index.qmd`:
+
+   ```markdown
+   ---
+   title: Your name here
+   about:
+       template: trestles
+       links:
+           - icon: linkedin
+             text: LinkedIn
+             url: Add your linkedin link
+           - icon: github
+             text: Github
+             url: Add your Github link
+           - text: "{{< ai google-scholar >}} Google Scholar"
+             url: Add your Google Scholar link. If it is not available, leave blank
+           - text: Website
+             url: Add your Website link. If it is not available, leave blank
+   image: ./avatar.jpg
+   ---
+
+   ## Education
+   Fill your education history here
+
+   ## Research Interest
+   Provide your research interest
+   ```
+
+   Replace placeholders like `Your name here`, `Add your linkedin link`, etc., with your actual details.
+
+### Step 5: Commit and Push Your Changes
+
+1. Commit your changes:
+   ```bash
+   git commit -m "Add profile for [Your Name]"
+   ```
+
+2. Push your changes to your forked repository:
+   ```bash
+   git push origin main
+   ```
+
+### Step 6: Create a Pull Request
+
+1. Go to your forked repository on GitHub.
+2. Click on the **Pull Requests** tab and then **New Pull Request**.
+3. Select the base repository as `iHuman-Lab/lab-website` and compare it with your forked repository.
+4. Add a description for your pull request and submit it.
+
+Congratulations! You’ve added your profile to the lab website. If you encounter any issues, feel free to reach out to the Hemanth for help.

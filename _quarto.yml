@@ -40,5 +40,6 @@ bibliography: references.bib
 format:
   html:
     theme: [cosmo, custom.scss]
+    highlight-style: dracula
   pdf:
     documentclass: scrreprt
