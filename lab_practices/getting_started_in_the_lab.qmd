@@ -40,7 +40,7 @@ Once you have your accounts set up, you’ll need to add your profile to the lab
 2. Click the **Code** button and copy the repository URL.
 3. Open your terminal and clone the repository to your local machine using:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/iHuman-Lab/lab-website.git
    ```
 4. Navigate to the repository directory:
    ```bash
