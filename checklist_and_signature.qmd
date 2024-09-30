@@ -4,7 +4,7 @@ Congrats on making towards the end of the document. Please sign the below docume
 
 :::{.callout-note title=Task}
 1. Review the [**research project manual**](https://ihuman-lab.github.io/research-manual/){target='_blank_'} which provides comprehensive guidance on coding practices, the procedure for writing research papers, managing data effectively, structuring research projects, and accessing valuable learning resources.
-2. Create a pull request to add your photo and website to lab webite. The procedure to add this is given in @sec-labwebsite
+2. Create a pull request to add your photo and personal website to lab website. The procedure to add this is given in @sec-labwebsite
 :::
 
 

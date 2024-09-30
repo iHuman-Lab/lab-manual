@@ -92,9 +92,9 @@ Once you have your accounts set up, you’ll need to add your profile to the lab
              text: Github
              url: Add your Github link
            - text: "{{< ai google-scholar >}} Google Scholar"
-             url: Add your Google Scholar link. If it is not available, leave blank
+             url: If you have google scholar link, add it here.
            - text: Website
-             url: Add your Website link. If it is not available, leave blank
+             url: If you have a website link, add it here.
    image: ./avatar.jpg
    ---
 
