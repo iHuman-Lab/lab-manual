@@ -17,7 +17,7 @@ The very first thing you need to do is to get set up on the following platforms,
 3. **``ClickUp``**: This serves as our essential management tool for meticulously tracking project progress and priorities. Leveraging the [Kanban](https://www.youtube.com/watch?v=OAw-sUQwMSk){target='_blank_'} method extensively, we visualize our workflows dynamically. This allows us to categorize tasks into clear stages, from planning and experimentation to analysis and publication. By visualizing our project in this manner, we can easily identify bottlenecks, prioritize tasks, and decide which parts of the project to focus on at any given time. Here are some tutorials to get started with ClickUp:
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=spgC9s3VthosHv8M&amp;list=PLxRzBtka0l4xXSbWOqx9PETfJPpoYwHrh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JmcVjP8m02k?si=gS8CfrXPMCQkDrWZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>
 
 :::{.callout-note title=Task}
