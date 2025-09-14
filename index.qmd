@@ -1,19 +1,18 @@
-# Welcome {.unnumbered}
+# Welcome 🎉 {.unnumbered}
 
+We’re **so excited** you’ve joined the **`I`**ntelligent **`Hu`**man-**`Ma`**chine **`N`**exus Lab (aka iHuman Lab)! 🚀 Get ready to dive into the fascinating world of human-machine interaction and neuroscience. Along the way, you'll pick up awesome skills (think coding, data analysis, writing papers, and giving epic talks), make new friends, and have a blast!
 
-We are glad that you have decided to join **`I`**ntelligent **`Hu`**man-**`Ma`**chine **`N`**exus Lab (iHuman Lab)! We are really excited to have you as a part of our team and we will do what we can to make sure that you have a great time in our lab. We hope you will learn a lot about human and machines, and neuroscience, develop new and useful skills (coding, data analysis, writing papers, giving talks), make new friends, and have a great deal of fun throughout the whole process!!
+We know that starting in a research lab can feel like drinking from a firehose 🌊—but don't worry, we’ve got your back! This manual is your trusty sidekick, guiding you through everything from lab policies to your rights and responsibilities. You’ll also find tips on how to fit right in with our workflows, stay safe, and keep things ethical.
 
-We are in this together and we are here to support you! Starting to work in a research lab can be overwhelming sometimes (we are all humans!). This manual is to help you make the transition into iHuman lab more enjoyable.
+## Acknowledgments ✨
 
-This lab manual is crafted as your essential companion, designed to acquaint you with our lab’s operations, policies, and your rights and responsibilities as a valued member of the lab. Within these pages, you will find detailed explanations of the bill of rights and responsibilities, outlining both what you can expect from the lab environment and what is expected of you in terms of conduct, safety, and ethical standards. Clear and concise lab practices and policies are also delineated to ensure smooth integration into our research workflows.
+Big thanks to the following labs for inspiring parts of this manual:
+[Context Dynamics Lab](https://GitHub.com/ContextLab/lab-manual)
+[The Memory Modulation Lab](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/1249/files/2023/04/Maureen-Ritchey-Boston-College.pdf)
+[Aly Lab](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/1249/files/2023/04/aly-lab-manual.pdf)
+[Peelle Lab](https://sites.gatech.edu/cdi/files/2023/04/Jonathan-Peelle-Washington-University-in-Saint-Louis.pdf)
+[Ritchey Lab](https://sites.gatech.edu/cdi/files/2023/04/Maureen-Ritchey-Boston-College.pdf)
+[Kemp Lab](https://sites.gatech.edu/cdi/files/2023/04/Melissa-Kemp-Georgia-Tech-Emory-University.pdf)
 
-## Acknowledgment {.unnumbered}
-
-This lab manual draws inspiration from various sources, and in some sections, content has been adapted or reproduced from these sources. We acknowledge the following works for their influence:
-
-[Context Dynamics Lab](https://`GitHub`.com/ContextLab/lab-manual), [The Memory Modulation Lab](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/1249/files/2023/04/Maureen-Ritchey-Boston-College.pdf), [Aly Lab](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/1249/files/2023/04/aly-lab-manual.pdf), [Peelle Lab](https://sites.gatech.edu/cdi/files/2023/04/Jonathan-Peelle-Washington-University-in-Saint-Louis.pdf), [Ritchey Lab](https://sites.gatech.edu/cdi/files/2023/04/Maureen-Ritchey-Boston-College.pdf), [Kemp Lab](https://sites.gatech.edu/cdi/files/2023/04/Melissa-Kemp-Georgia-Tech-Emory-University.pdf)
-
-This lab manual is licensed under the Creative Commons Attribution 4.0 International License. You are free to share, adapt, and redistribute the material in any medium or format, provided appropriate credit is given to the original authors and the source is properly cited.
-
-
+This manual is licensed under the Creative Commons Attribution 4.0 International License, which means you can share, adapt, and remix it—just be sure to give credit where credit’s due!
 

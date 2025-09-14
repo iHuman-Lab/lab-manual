@@ -1,33 +1,38 @@
-# Introduction {.unnumbered}
+# Introduction 🚀 {.unnumbered}
 
-This lab manual is intended to provide a crash course in doing research in the iHuman Lab. It describes your rights and responsibilities as a member of the lab. The manual also introduces our general research approach and lab policies.
+This lab manual is your crash course for diving into research at iHuman Lab! It covers everything you need to know about your rights, responsibilities, and how we approach research. Think of it as your trusty guide for thriving in our lab.
 
-## Who `is` this lab manual for?
+## Who is this lab manual for?
 
-Every new lab member should read the latest version of this lab
-manual in detail and reference it later as needed. Periodically throughout the document, you will see callouts with listed `Task` items.
+Every new lab member should read this manual in detail and refer back to it as needed. As you go through it, you’ll see **`Task`** items—these are action points for you to complete.
 
-Completing your read-through entails:
+To finish your read-through, you’ll need to:
 
-* Reading the contents of the manual
-* Asking current lab members about any confusing aspects
-* Completing the relevant `Task` items. You will also see non-task NOTE items; these provide helpful tips and additional commentary on the nearby text.
+* Read the entire manual.
+* Ask lab members if anything’s unclear.
+* Complete the **`Task`** items.
+* Take note of the **`NOTE`** sections—they’re packed with helpful tips and extra context.
 
-This lab manual is meant to be a `living document.` All lab members are welcome (and encouraged!) to submit edits that improve the content, clarity, and overall helpfulness of this document at any point throughout their tenure in the lab.
-What should you do if you don’t understand something? If you don’t understand something you read in this manual, it is
-important that you ask another lab member for help. Every member of the lab brings their own unique knowledge base, training, life experiences, and perspectives. Respecting and celebrating those differences drives the science we do. If you’re new to the lab or new to a particular technique, you might feel like a newbie today—but chances are good that if you stick around for a bit, someone else will be seeking your expert opinion before you know it. In addition to learning, there’s another good reason for asking for help: if you don’t understand something, there’s a reasonable chance that you’ve discovered a mistake or a logical inconsistency!
+This manual is a **living document**, so feel free to contribute edits to make it better for everyone!
+
+## What to do if you don’t understand something?
+
+Don’t hesitate to ask a lab member for clarification! Each of us brings unique experiences and perspectives that help drive our research. If you’re new to something, there’s a good chance others have been where you are and can help out. Plus, if something doesn’t make sense, you might just spot an error or inconsistency!
 
 :::{.callout-note title=Task}
-Upon reading through this lab manual for the first time, please update the document to include your name in the Lab members section. Importantly, be sure to fork the `GitHub` repository, make your edit on your personal fork, and submit a pull request with your update.
+After your first read-through, update the **Lab Members** section with your name. Be sure to fork the `GitHub` repository, edit your personal fork, and submit a pull request with your update!
 :::
 
-## Why is it worth my time to read through the manual?
-Aside from pursuing your own curiosity, a major reason that you’ve decided to join an academic research lab is probably because you want to gain training or career-advancing experiences. This manual briefly summarizes the collective wisdom of past and present lab members in a way that we think will best allow you to achieve your objectives. `Learn from it, challenge it, and add to it.`
+## Why should I read this manual?
 
-## What `isn’t` this lab manual?
-This lab manual is not intended to provide a comprehensive overview of everything you need to know to do your research projects. As described next, you may not even know what you need to know to do your projects! Nevertheless, you need somewhere to start, and this is that place.
+Aside from satisfying your curiosity, you’re probably here to gain valuable training and experience to advance your career. This manual compiles the wisdom of past and present lab members to help you achieve those goals. **Learn from it, challenge it, and add to it!**
 
-We also maintain a repository of lab tutorials that provide guidance on specific tasks. If you are looking for help on a particular task (or understanding a particular concept) that isn’t covered by the existing set of tutorials, please consider contributing a tutorial of your own once you’ve figured things out!
+## What *isn’t* this lab manual?
 
-## Research project manual
-Along with this general lab manual, we will also use the [**research project manual**](https://ihuman-lab.github.io/research-manual/){target='_blank_'} which provides comprehensive guidance on coding practices, the procedure for writing research papers, managing data effectively, structuring research projects, and accessing valuable learning resources. This supplementary resource is essential for ensuring that our research endeavors are conducted with precision, thoroughness, and adherence to best practices across all stages of our project development and documentation.
+This isn’t a comprehensive guide to every detail of your research project. You might not even know everything you’ll need to know right away—but this is where your journey starts!
+
+If you need more detailed guidance, check out our lab’s tutorials. And if you discover something new and helpful, consider contributing your own tutorial to help others!
+
+## Research Project Manual 📚
+
+Alongside this general manual, you’ll also use the [**Research Project Manual**](https://ihuman-lab.github.io/research-manual/){target='*blank*'} for in-depth guidance on coding, writing research papers, data management, project structuring, and more. This resource is key to making sure our research is precise, thorough, and top-notch at every stage.

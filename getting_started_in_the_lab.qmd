@@ -1,0 +1,125 @@
+# Getting Started in the Lab {.unnumbered}
+
+Welcome aboard! 🚀 The first step is getting connected—both with people and platforms. Here’s what you’ll need to set up so you can communicate, collaborate, and keep projects moving:
+
+1. **Microsoft Teams** – Our virtual lab lounge. This is where we chat, share ideas, and post updates. Start here for quick questions or discussions.
+
+2. **GitHub** – Think of this as your digital lab notebook. It’s where we keep code, papers, grants, and more. Every commit is a record of your contribution—so push often and stay credited!
+
+<p align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=AzfotQgy0j-SF1MK&amp;list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <p>
+
+3. **Microsoft Planner** – Our project dashboard. Using Kanban boards, we track tasks from brainstorming all the way to publication. It’s how we see progress, bottlenecks, and priorities at a glance.
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QyMKuRn7dno?si=Tq5tAmWEK2LQvHw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>
+
+:::{.callout-note title=Task}
+As a OSU student you already have access to `**Microsoft Teams**` and `**Planner**`, all you have to do is create `**GitHub**` account.
+:::
+
+Once you’re set up, hop into **Teams** to introduce yourself (#general is a good place) and start the onboarding workflow. Depending on your role, you may see just one project channel or the full lab space.
+
+Once you’ve created those accounts, you can ask any questions through `Microsoft Teams` (use the #general channel or the channel specific your project). Depending on your role in the lab, you may be added on `Microsoft Teams` as a single-channel guest (access to only one channel) or a in the #general channel through the Workflows menu (usually near the top left of the window). Once you initiate the workflow, you’ll be guided through the onboarding process.
+
+## Lab website {#sec-labwebsite}
+Once you have your accounts set up, you’ll need to add your profile to the lab’s website. Follow these steps to fork the repository, create your profile folder, and add your details.
+
+### Step 1: Fork the Lab Website Repository
+
+1. Go to the [lab website GitHub repository](https://github.com/iHuman-Lab/lab-website){target='_blank_'}.
+2. Click on the **Fork** button in the top-right corner of the page. This will create a copy of the repository under your own GitHub account.
+
+### Step 2: Clone Your Forked Repository
+
+1. On your GitHub account, navigate to your forked repository.
+2. Click the **Code** button and copy the repository URL.
+3. Open your terminal and clone the repository to your local machine using:
+   ```bash
+   git clone https://github.com/iHuman-Lab/lab-website.git
+   ```
+4. Navigate to the repository directory:
+   ```bash
+   cd lab-website
+   ```
+
+### Step 3: Add Your Profile Folder
+
+1. In the `people` directory, find the folder corresponding to your role in the lab:
+
+   ```{.bash}
+   people/
+   ├── pi/
+   ├── phd/
+   ├── master/
+   ├── undergraduate/
+   └── alumni/
+   ```
+
+2. If you are a `master` student, create a new folder with your name under the `master` directory. Replace `"your_name"` with your actual name:
+
+   ```bash
+   mkdir -p people/master/"your_name"
+   ```
+
+   For other roles, replace `master` with `pi`, `phd`, `undergraduate`, or `alumni` accordingly.
+
+### Step 4: Add Your Profile Details
+
+1. Inside your folder (e.g., `people/master/"your_name"`), add your profile photo and index file.
+
+2. Your photo should be named `avatar.jpg`. Add this photo to your folder:
+   ```bash
+   cp path/to/your/photo.jpg people/master/"your_name"/avatar.jpg
+   ```
+
+3. Create an `index.qmd` file in the same folder. Use the following content template for `index.qmd`:
+
+   ```markdown
+   ---
+   title: Your name here
+   about:
+       template: trestles
+       links:
+           - icon: linkedin
+             text: LinkedIn
+             url: Add your linkedin link
+           - icon: github
+             text: Github
+             url: Add your Github link
+           - text: "{{< ai google-scholar >}} Google Scholar"
+             url: If you have google scholar link, add it here.
+           - text: Website
+             url: If you have a website link, add it here.
+   image: ./avatar.jpg
+   ---
+
+   ## Education
+   Fill your education history here
+
+   ## Research Interest
+   Provide your research interest
+   ```
+
+   Replace placeholders like `Your name here`, `Add your linkedin link`, etc., with your actual details.
+
+### Step 5: Commit and Push Your Changes
+
+1. Commit your changes:
+   ```bash
+   git commit -m "Add profile for [Your Name]"
+   ```
+
+2. Push your changes to your forked repository:
+   ```bash
+   git push origin main
+   ```
+
+### Step 6: Create a Pull Request
+
+1. Go to your forked repository on GitHub.
+2. Click on the **Pull Requests** tab and then **New Pull Request**.
+3. Select the base repository as `iHuman-Lab/lab-website` and compare it with your forked repository.
+4. Add a description for your pull request and submit it.
+
+🎉 Congrats—you’re officially part of the lab online! If you get stuck, just ping Hemanth on Teams.

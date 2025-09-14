@@ -1,55 +1,53 @@
-# Lab member roles {.unnumbered}
+# Lab Member Roles ⚡ {.unnumbered}
 
-**`PI`**
+Each lab member has a unique role, and we all bring our skills to the table. Here's who does what in iHuman Lab:
 
-- Provide the funding necessary to keep the lab going
-- Meet with you regularly to discuss your research projects. The definition of "regularly" may change
-overtime or over the course of a project, but for now, I mean once a week or more often as needed.
-- Give you my perspective on academia and issues related to professional development
-- Support your career development by introducing you to other researchers in the field, writing recommendation letters for​ you, providing you with opportunities to attend conferences when possible, and promoting your work in talks
-- Care about you as a person and not just a researcher
+## **PI (Principal Investigator) 👨‍🔬**
 
-**`Project Owner`**. This is the person responsible for maximizing the "return on investment" of the project effort. The project owner:
+The PI is the **brain behind the lab**—the one who keeps everything running:
 
-- Is responsible for project vision
-- Constantly re-prioritizes the research backlog, adjusting any long-term expectations such as publication and release plans
-- Acts as the final arbiter of requirements questions
-- Accepts or rejects each project increment
-- Decides whether to publish/ship the project
-- Decides whether to continue development
-- Considers interests of funding bodies (e.g., NIH, NSF, DARPA, private organizations) and the scientific community
-- May contribute as a team member
-- Has a leadership role
+* **Fundraising Genius**: Secures funding to keep the lab alive and thriving.
+* **Research Coach**: Meets with you regularly (usually once a week) to discuss your projects and guide your academic journey.
+* **Career Booster**: Helps you with professional development by connecting you with other researchers, writing recommendation letters, and promoting your work at conferences.
+* **Human First**: Cares about you as a person, not just a researcher.
 
-**`Team Member`**. Team members are responsible for carrying out the project work. Team members:
+## **Project Owner 🏆**
 
-- Are cross-functional: includes members with development skills (write code or papers/grants), testing skills (e.g., data collection, test software, proofreading papers/grants), and/or domain expertise (e.g., knowledge or interest in a relevant research area)
-- Are self-organizing and self-managing without externally assigned roles
-- Negotiate commitments with the Project Owner, one "sprint" at a time
-- Have autonomy regarding how to reach commitments (e) Are intensely collaborative
-- Are (ideally) located in one team room (usually, this will be the lab)
-- Are (ideally) committed to long-term, consistent lab member-ship
-- Are (ideally) focused on a single team/project at a time
-- Have a leadership role
+The Project Owner is the **visionary**—the one who ensures the project is moving in the right direction and achieving results:
 
-**`Project Coordinator`**. The Project Coordinator facilitates the agile research process both directly and indirectly. The Project Coordinator:
+* **The Visionary**: Keeps the project’s big picture in mind and sets the research goals.
+* **The Prioritizer**: Constantly adjusts the research priorities and long-term goals, including publication plans.
+* **The Decision-Maker**: Makes final calls on project requirements, whether to publish, and whether to keep pushing forward with development.
+* **The Guardian of Interests**: Considers funding bodies and the scientific community’s needs in every decision.
+* **The Leader**: Guides the team but might still roll up their sleeves and contribute as a team member.
 
-- Helps to resolve impediments
-- Creates an environment conducive to team self-organization
-- Captures empirical data to adjust forecasts (e.g., weekly `Slack` reports summarizing progress)
-- Shields the team from external interference and distraction to keep it "in the zone."
-- Enforces timelines
-- Has no management authority over the team (anyone with authority over the team is, by definition, not its Project Coordinator)- Has a leadership role
-- Will usually be either the Lab Coordinator (note: this position is currently vacant) or Hemanth.
+## **Team Member 🤝**
 
-**`Collaborator`**. Collaborators are not formally part of the project team and generally will not attend regular meetings as part of the team. Importantly, collaborators do not have a leadership role in the project. They may carry out one or more of the following roles:
+Team Members are the **engine** that powers the project. They do the hands-on work and collaborate closely:
 
-- Provide data or share equipment
-- Provide occasional consulting services
-- Provide occasional feedback on project results
-- Carry out minor analyses
-- Proofread documents
-- Help with administrative tasks such as scheduling
-- Help with information technology tasks such as computer maintenance
+* **Cross-functional All-Stars**: Write code, collect data, test software, proofread papers—whatever the project needs!
+* **Self-Managing**: Organize and manage themselves, without needing a boss to tell them what to do.
+* **Collaborative**: Work intensely with others in the team (think: constant communication, shared problem-solving).
+* **Commitment**: Ideally, they focus on one project at a time and stay with the lab for the long haul.
+* **Leadership**: Even as contributors, Team Members have a leadership role in driving their area of the project.
 
-By definition, collaborators play a minor role in the project, and they are not responsible for managing any aspect of the project. They may become Team Members if their involvement increases. Generally, collaborators will be included in a paper's acknowledgment section, but collaborators are not normally co-authors.
+## **Project Coordinator 📅**
+
+The Project Coordinator is the **glue** that keeps everything together, making sure the team is staying on track and that the research process is smooth:
+
+* **Impediment-Buster**: Helps remove any roadblocks that could slow down the team.
+* **Environment Creator**: Ensures the team has the space and freedom to self-organize and thrive.
+* **Data Guru**: Tracks progress and adjusts forecasts (you’ll see weekly updates in **Microsoft Teams**).
+* **Team Shield**: Protects the team from distractions, so they can stay focused.
+* **Timeline Enforcer**: Keeps an eye on deadlines and ensures the project stays on track.
+* **No Authority**: The Project Coordinator has no formal management power over the team—they’re more like a helpful guide. (For now, that’s usually the Lab Coordinator or Hemanth).
+
+## **Collaborator 🌐**
+
+Collaborators are the **specialists** who offer occasional help but aren’t fully embedded in the project:
+
+* **The Helper**: May provide data, equipment, consulting, feedback, minor analyses, or administrative support (like scheduling).
+* **The Backstage Player**: They aren’t involved in day-to-day project decisions and generally don’t attend regular meetings.
+* **Paper Recognition**: If their contribution is significant enough, they may be mentioned in acknowledgments, but usually **not** as co-authors.
+
+Collaborators are a big help when needed, but they stay in the background unless they’re ready to step up into a bigger role.

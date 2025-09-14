@@ -1,20 +1,50 @@
-# Making mistakes {.unnumbered}
+# Making Mistakes 🌱 {.unnumbered}
 
-The work we do is complicated, and mistakes happen. When you notice a mistake (a bug, misinterpretation, mislabeling, or any other error), it is critical that you report the mistake immediately. Whereas mistakes are unavoidable in science, negative impacts can be minimized by fostering a workplace where reporting mistakes is celebrated and accepted as part of the natural course of getting things done. Mistakes are opportunities to learn and grow, and identifying or noticing mistakes should be celebrated as part of our growth as researchers. However, real harm can come from failing to report mistakes soon enough. There is a proverb that says *the best time to plant a tree was 20 years ago; the second best time is now.* Analogously, **`the best time to identify and correct a mistake may have been in the past– but the second best time is right now!`**
+Mistakes happen. In science, they’re part of the process! But how we handle them can make or break our research. The key is **facing mistakes head-on** and **learning from them**—because that’s how we improve.
 
-Example scenarios (not an exhaustive list):
+## Why It's OK to Make Mistakes (But Important to Report)
 
-1. You’ve shared a figure, statistic, or other result, and you’ve realized there’s a bug in your code.
-2. You tried to collect some data and the experiment crashed or yielded corrupted data.
-3. You’re re-reading a paper that you shared, and you notice a mistake or typo.
-4. You made a plan with your project team and you realized it’s flawed in some way, or that there’s potentially a better solution or approach.
-5. You released a software package and you’ve found a bug or error.
+* Mistakes are unavoidable, and they don’t mean failure—they're **opportunities to learn**.
+* Reporting them **immediately** minimizes the impact and helps us correct course early.
+* Think of it like this: **“The best time to fix a mistake was earlier, the second best time is now!”**
 
-Appropriate actions for each of the above scenarios (this should happen immediately after you notice the mistake):
+## Example Scenarios (and how to handle them) 🧐
 
-1. Verify: Double-check to confirm the mistake. Review your code, re-run experiments if necessary, or revisit reference materials.
-2. Report: Create a GitHub issue detailing the problem. Include information on how to replicate the issue, expected versus observed behavior, and any relevant system details like operating environment and software versions.
-3. Collaborate: Use Slack or other communication channels to discuss the issue with your project team. Collaborate to understand the root cause and formulate an effective plan of action.
-4. Seek guidance: If unsure, reach out to colleagues for assistance. Utilize resources like Google or Stack Exchange to explore potential solutions.
+1. **You found a bug in your code after sharing a figure/statistic**
 
-Remember, consulting with others when in doubt is always a wise move. Every mistake is an opportunity for growth and improvement, contributing to our collective journey as researchers. Let's continue fostering an environment where learning from mistakes is celebrated and supported, ensuring that our work maintains its highest standards of quality and reliability.
+   * **Verify**: Double-check the code and results.
+   * **Report**: Create a GitHub issue with all the details.
+   * **Collaborate**: Let the team know so you can fix it together.
+
+2. **The experiment crashed or corrupted data**
+
+   * **Verify**: Check if the data is salvageable or if a redo is needed.
+   * **Report**: Document the issue so the team knows and can avoid it next time.
+   * **Collaborate**: Discuss with others on **Microsoft Teams** to troubleshoot.
+
+3. **You found a typo in a paper you’ve shared**
+
+   * **Verify**: Reread the document and confirm the error.
+   * **Report**: If it’s minor, just correct and update the file.
+   * **Collaborate**: Ask for a second pair of eyes from the team for a more thorough review.
+
+4. **Your project plan has a flaw or needs improvement**
+
+   * **Verify**: Review the plan and identify any improvements.
+   * **Report**: Discuss changes with the team and update the plan.
+   * **Collaborate**: Share new ideas and work together to improve the approach.
+
+5. **You released a software package with an error**
+
+   * **Verify**: Reproduce the issue and assess the extent.
+   * **Report**: Post the error on GitHub and document the bug.
+   * **Collaborate**: Work with the team to fix it and release a patch.
+
+## The Action Steps: What to Do Immediately 🚀
+
+1. **Verify**: Confirm the mistake before jumping to conclusions.
+2. **Report**: Use GitHub or other tools to document the error.
+3. **Collaborate**: Talk with the team on **Microsoft Teams** to brainstorm solutions.
+4. **Seek Guidance**: Don’t be afraid to ask for help—sometimes the best ideas come from others.
+
+Mistakes are part of **being a researcher**, so **let's celebrate them** as learning moments. By fostering an environment of **open communication**, **collaboration**, and **growth**, we ensure our work is always improving. ✨

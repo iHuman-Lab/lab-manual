@@ -1,11 +1,11 @@
 # Starting a new project {.unnumbered}
 
 Our lab uses a number of project management tools and policies to promote continuity across projects and lab members. First, make sure that your project doesn’t already exist (generally this involves asking Hemanth).
-The general steps to starting a project are once you are added to  `ClickUp`, `Slack`, and `GitHub` account:
+The general steps to starting a project are once you are added to  `Microsoft Planner`, `Microsoft Teams`, and `GitHub` account:
 
-1. Create a `Slack` channel or decide on existing channel appropriate for project use.
+1. Create a `Microsoft Teams` channel or decide on existing channel appropriate for project use.
 2. If your project involves testing human participants, verify with Hemanth that your project is covered under an existing active IRB protocol, and that you are listed on the protocol. Depending on the protocol, you may need to complete one or more online training courses to become certified to run your experiment. If no existing protocol is appropriate for your study, discuss with Hemanth whether it would be more appropriate to create a new protocol or submit an amendment for an existing protocol.
-3. Create an initial set of short-term action items for kicking off your project in `ClickUp`.
+3. Create an initial set of short-term action items for kicking off your project in `Microsoft Planner`.
 
 :::{.callout-note title=Task}
 Visit the [research project manual](https://ihuman-lab.github.io/research-manual/){target='_blank_'} for details on the coding practices, research paper writing procedure, data management, structuring research project, and learning resources.
@@ -13,10 +13,10 @@ Visit the [research project manual](https://ihuman-lab.github.io/research-manual
 
 
 ## Joining a project
-To join a project, simply subscribe to the project’s `Slack` channel, `ClickUp` project, and `GitHub` repository. All project communications should either be summarized on `Slack` or occur through `Slack`, whenever possible. This keeps notes searchable and visible to all team members (except direct messages, which are useful for non-project-related private communications between one or more team members).
+To join a project, simply subscribe to the project’s `Microsoft Teams` channel, `Microsoft Planner` project, and `GitHub` repository. All project communications should either be summarized on `Microsoft Teams` or occur through `Microsoft Teams`, whenever possible. This keeps notes searchable and visible to all team members (except direct messages, which are useful for non-project-related private communications between one or more team members).
 
 :::{.callout-tip title=Note}
-If you create a new `Slack` channel for your project, invite Hemanth and other team members to join.
+If you create a new `Microsoft Teams` channel for your project, invite Hemanth and other team members to join.
 :::
 
 

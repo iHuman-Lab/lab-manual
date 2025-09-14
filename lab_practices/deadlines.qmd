@@ -1,15 +1,12 @@
-# Deadlines {.unnumbered}
+# Deadlines ⏳ {.unnumbered}
 
-Maintaining sanity in academia is a fine art, and organization is your best-friend! It's not just about keeping your own ship sailing smoothly; it's about ensuring everyone in your academic crew stays on course. When deadlines loom, be the lighthouse: as soon as you know a deadline, signal your collaborators and keep them informed as the date approaches. And yes, even bug Hemanth if you must—after all, timely reminders keep the research ship afloat and cruising toward success!
+Staying sane in academia is all about teamwork and timing! Think of deadlines as stormy seas—your job is to spot the lighthouse early and signal the crew (yes, even bug Hemanth). Clear heads and timely nudges keep the ship sailing smoothly. Here are the ideal timelines:
 
-- For time-sensitive tasks like reviewing conference abstracts or completing paperwork, give Hemanth at least one week's notice. This allows him to approach the task promptly and deliver results without unnecessary rush.
-
-- Projects requiring moderate effort, such as crafting letters of recommendation, benefit from a bit more lead time. Providing Hemanth with at least two weeks ensures he can dedicate the necessary attention to detail.
-
-- When collaborating on research and teaching statements, a minimum of three weeks allows for productive discussions and ensures the final product reflects thorough consideration and expertise.
-
-- For manuscripts, pivotal to academic contributions, share drafts as soon as they're ready. If a response is delayed beyond two weeks, a gentle reminder ensures timely feedback, contributing to a seamless publication process.
+* **Quick stuff** (conference reviews, paperwork): 1 week’s notice.
+* **Medium stuff** (recommendation letters): 2 weeks.
+* **Big stuff** (research/teaching statements): 3 weeks.
+* **Manuscripts**: Share drafts ASAP! If feedback stalls past 2 weeks, a friendly reminder works wonders.
 
 :::{.callout-tip}
-Utilizing `ClickUp` boards helps us keep track of deadlines and progress seamlessly.
+Track everything on `Microsoft Planner`—our shared compass for deadlines.
 :::

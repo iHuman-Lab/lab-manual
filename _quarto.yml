@@ -16,6 +16,9 @@ book:
       chapters:
         - rights_and_responsibilities/project_roles.qmd
         - rights_and_responsibilities/code_of_conduct.qmd
+    - getting_started_in_the_lab.qmd
+      # chapters:
+      # - getting_started/starting_a_new_project.qmd
     - part: lab_practices/lab_practices_and_policies.qmd
       chapters:
         - lab_practices/scientific_integrity.qmd
@@ -23,10 +26,7 @@ book:
         - lab_practices/communication.qmd
         - lab_practices/lab_meetings.qmd
         - lab_practices/travel_policy.qmd
-        - lab_practices/human_subject_studies.qmd
         - lab_practices/authorship_guidlines.qmd
-        - lab_practices/getting_started_in_the_lab.qmd
-        - lab_practices/starting_a_new_project.qmd
         - lab_practices/deadlines.qmd
         - lab_practices/lab_attendance.qmd
         - lab_practices/lab_traditions.qmd
