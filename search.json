@@ -157,25 +157,23 @@
     ]
   },
   {
-    "objectID": "getting_started/starting_a_new_project.html",
-    "href": "getting_started/starting_a_new_project.html",
-    "title": "Starting a new project",
+    "objectID": "getting_started_in_the_lab.html",
+    "href": "getting_started_in_the_lab.html",
+    "title": "Getting Started in the Lab",
     "section": "",
-    "text": "Joining a project\nTo join a project, simply subscribe to the project’s Microsoft Teams channel, Microsoft Planner project, and GitHub repository. All project communications should either be summarized on Microsoft Teams or occur through Microsoft Teams, whenever possible. This keeps notes searchable and visible to all team members (except direct messages, which are useful for non-project-related private communications between one or more team members).\nNote that, as a general rule, you should focus the majority of your efforts on one project at a time. This doesn’t mean you need to do the same thing every day (each project has many components and, as described above, the focus of lab projects will change over time), but it gives some sense of how you should be allocating your work time.\nIf you are a part-time employee of the lab, prior experience has shown that you will most likely be able to make a meaningful contribution to only a single project at a time. If you are a full-time employee, you may choose to devote some of your time to a secondary project (with the understanding that you will always prioritize your primary project). If you want to change which project is your primary project, or if you want to divide your time across multiple projects, you should coordinate this with Hemanth and your team members.",
+    "text": "Lab website\nOnce you have your accounts set up, you’ll need to add your profile to the lab’s website. Follow these steps to fork the repository, create your profile folder, and add your details.",
     "crumbs": [
-      "Getting Started in the Lab",
-      "Starting a new project"
+      "Getting Started in the Lab"
     ]
   },
   {
-    "objectID": "getting_started/starting_a_new_project.html#joining-a-project",
-    "href": "getting_started/starting_a_new_project.html#joining-a-project",
-    "title": "Starting a new project",
+    "objectID": "getting_started_in_the_lab.html#sec-labwebsite",
+    "href": "getting_started_in_the_lab.html#sec-labwebsite",
+    "title": "Getting Started in the Lab",
     "section": "",
-    "text": "Note\n\n\n\nIf you create a new Microsoft Teams channel for your project, invite Hemanth and other team members to join.",
+    "text": "Step 1: Fork the Lab Website Repository\n\nGo to the lab website GitHub repository.\nClick on the Fork button in the top-right corner of the page. This will create a copy of the repository under your own GitHub account.\n\n\n\nStep 2: Clone Your Forked Repository\n\nOn your GitHub account, navigate to your forked repository.\nClick the Code button and copy the repository URL.\nOpen your terminal and clone the repository to your local machine using:\ngit clone https://github.com/iHuman-Lab/lab-website.git\nNavigate to the repository directory:\ncd lab-website\n\n\n\nStep 3: Add Your Profile Folder\n\nIn the people directory, find the folder corresponding to your role in the lab:\npeople/\n├── pi/\n├── phd/\n├── master/\n├── undergraduate/\n└── alumni/\nIf you are a master student, create a new folder with your name under the master directory. Replace \"your_name\" with your actual name:\nmkdir -p people/master/\"your_name\"\nFor other roles, replace master with pi, phd, undergraduate, or alumni accordingly.\n\n\n\nStep 4: Add Your Profile Details\n\nInside your folder (e.g., people/master/\"your_name\"), add your profile photo and index file.\nYour photo should be named avatar.jpg. Add this photo to your folder:\ncp path/to/your/photo.jpg people/master/\"your_name\"/avatar.jpg\nCreate an index.qmd file in the same folder. Use the following content template for index.qmd:\n---\ntitle: Your name here\nabout:\n    template: trestles\n    links:\n        - icon: linkedin\n          text: LinkedIn\n          url: Add your linkedin link\n        - icon: github\n          text: Github\n          url: Add your Github link\n        - text: \"{{&lt; ai google-scholar &gt;}} Google Scholar\"\n          url: If you have google scholar link, add it here.\n        - text: Website\n          url: If you have a website link, add it here.\nimage: ./avatar.jpg\n---\n\n## Education\nFill your education history here\n\n## Research Interest\nProvide your research interest\nReplace placeholders like Your name here, Add your linkedin link, etc., with your actual details.\n\n\n\nStep 5: Commit and Push Your Changes\n\nCommit your changes:\ngit commit -m \"Add profile for [Your Name]\"\nPush your changes to your forked repository:\ngit push origin main\n\n\n\nStep 6: Create a Pull Request\n\nGo to your forked repository on GitHub.\nClick on the Pull Requests tab and then New Pull Request.\nSelect the base repository as iHuman-Lab/lab-website and compare it with your forked repository.\nAdd a description for your pull request and submit it.\n\n🎉 Congrats—you’re officially part of the lab online! If you get stuck, just ping Hemanth on Teams.",
     "crumbs": [
-      "Getting Started in the Lab",
-      "Starting a new project"
+      "Getting Started in the Lab"
     ]
   },
   {
@@ -690,26 +688,6 @@
     "text": "Recourse\nIf you feel your rights have been violated—or if you see others’ rights being compromised—it’s your duty to report it to a senior staff member (Hemanth, Department Chair, or even Title IX coordinator). Don’t stay silent—speak up and help maintain a healthy, respectful environment.",
     "crumbs": [
       "Rights and Responsibilities"
-    ]
-  },
-  {
-    "objectID": "getting_started/getting_started_in_the_lab.html",
-    "href": "getting_started/getting_started_in_the_lab.html",
-    "title": "Getting Started in the Lab",
-    "section": "",
-    "text": "Lab website\nOnce you have your accounts set up, you’ll need to add your profile to the lab’s website. Follow these steps to fork the repository, create your profile folder, and add your details.",
-    "crumbs": [
-      "Getting Started in the Lab"
-    ]
-  },
-  {
-    "objectID": "getting_started/getting_started_in_the_lab.html#sec-labwebsite",
-    "href": "getting_started/getting_started_in_the_lab.html#sec-labwebsite",
-    "title": "Getting Started in the Lab",
-    "section": "",
-    "text": "Step 1: Fork the Lab Website Repository\n\nGo to the lab website GitHub repository.\nClick on the Fork button in the top-right corner of the page. This will create a copy of the repository under your own GitHub account.\n\n\n\nStep 2: Clone Your Forked Repository\n\nOn your GitHub account, navigate to your forked repository.\nClick the Code button and copy the repository URL.\nOpen your terminal and clone the repository to your local machine using:\ngit clone https://github.com/iHuman-Lab/lab-website.git\nNavigate to the repository directory:\ncd lab-website\n\n\n\nStep 3: Add Your Profile Folder\n\nIn the people directory, find the folder corresponding to your role in the lab:\npeople/\n├── pi/\n├── phd/\n├── master/\n├── undergraduate/\n└── alumni/\nIf you are a master student, create a new folder with your name under the master directory. Replace \"your_name\" with your actual name:\nmkdir -p people/master/\"your_name\"\nFor other roles, replace master with pi, phd, undergraduate, or alumni accordingly.\n\n\n\nStep 4: Add Your Profile Details\n\nInside your folder (e.g., people/master/\"your_name\"), add your profile photo and index file.\nYour photo should be named avatar.jpg. Add this photo to your folder:\ncp path/to/your/photo.jpg people/master/\"your_name\"/avatar.jpg\nCreate an index.qmd file in the same folder. Use the following content template for index.qmd:\n---\ntitle: Your name here\nabout:\n    template: trestles\n    links:\n        - icon: linkedin\n          text: LinkedIn\n          url: Add your linkedin link\n        - icon: github\n          text: Github\n          url: Add your Github link\n        - text: \"{{&lt; ai google-scholar &gt;}} Google Scholar\"\n          url: If you have google scholar link, add it here.\n        - text: Website\n          url: If you have a website link, add it here.\nimage: ./avatar.jpg\n---\n\n## Education\nFill your education history here\n\n## Research Interest\nProvide your research interest\nReplace placeholders like Your name here, Add your linkedin link, etc., with your actual details.\n\n\n\nStep 5: Commit and Push Your Changes\n\nCommit your changes:\ngit commit -m \"Add profile for [Your Name]\"\nPush your changes to your forked repository:\ngit push origin main\n\n\n\nStep 6: Create a Pull Request\n\nGo to your forked repository on GitHub.\nClick on the Pull Requests tab and then New Pull Request.\nSelect the base repository as iHuman-Lab/lab-website and compare it with your forked repository.\nAdd a description for your pull request and submit it.\n\n🎉 Congrats—you’re officially part of the lab online! If you get stuck, just ping Hemanth on Teams.",
-    "crumbs": [
-      "Getting Started in the Lab"
     ]
   },
   {
