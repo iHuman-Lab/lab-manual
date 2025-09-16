@@ -31,7 +31,7 @@ book:
         - lab_practices/lab_attendance.qmd
         - lab_practices/lab_traditions.qmd
     - lab_resources.qmd
-    - lab_members_and_alumni.qmd
+    # - lab_members_and_alumni.qmd
     - checklist_and_signature.qmd
     # - references.qmd
 

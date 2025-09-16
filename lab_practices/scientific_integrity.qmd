@@ -1,26 +1,26 @@
-# Scientific Integrity 🧑‍🔬 {.unnumbered}
+# Scientific Integrity  {.unnumbered}
 
 Scientific integrity is all about keeping our research **credible**, **transparent**, and **reproducible**. It’s the bedrock of everything we do in the lab! Here’s how we ensure that our work stands up to the highest standards.
 
-## Reproducibility: The Holy Grail 🔄
+## Reproducibility: The Holy Grail
 
 * **Reproducible research** means that anyone, anywhere, should be able to reproduce your results if they follow the same process and use the same data.
 * This requires **organization** and **meticulous documentation**—so be detailed in recording every step of your research journey!
 * While **replicability** (getting the same result with a different dataset) is great, **reproducibility** is our minimum standard.
 
-## Transparency & Openness 💡
+## Transparency & Openness
 
 * **Open science**: Share your data so others can verify and build upon it.
 * Publish in **accessible journals** and platforms to make your findings available to all.
 * Be clear and detailed about your **methods** and **analytical approaches** so others can replicate or extend your work.
 
-## Ethical Conduct: Be a Science Superhero 🦸‍♂️
+## Ethical Conduct: Be a Science Superhero
 
 * Always ensure **informed consent** and protect **participants' privacy**.
 * Report methods, results, and potential **conflicts of interest** openly and honestly.
 * Follow **ethical guidelines** and field-specific **regulations**.
 
-## Reproducibility & Rigor 🧐
+## Reproducibility & Rigor
 
 * Keep **meticulous records**: from your methods and procedures to your data management.
 * Validate findings through **independent replication** and robust **statistical analyses**.

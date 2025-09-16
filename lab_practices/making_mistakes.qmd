@@ -1,4 +1,4 @@
-# Making Mistakes 🌱 {.unnumbered}
+# Making Mistakes {.unnumbered}
 
 Mistakes happen. In science, they’re part of the process! But how we handle them can make or break our research. The key is **facing mistakes head-on** and **learning from them**—because that’s how we improve.
 
@@ -8,7 +8,7 @@ Mistakes happen. In science, they’re part of the process! But how we handle th
 * Reporting them **immediately** minimizes the impact and helps us correct course early.
 * Think of it like this: **“The best time to fix a mistake was earlier, the second best time is now!”**
 
-## Example Scenarios (and how to handle them) 🧐
+## Example Scenarios (and how to handle them)
 
 1. **You found a bug in your code after sharing a figure/statistic**
 
@@ -40,7 +40,7 @@ Mistakes happen. In science, they’re part of the process! But how we handle th
    * **Report**: Post the error on GitHub and document the bug.
    * **Collaborate**: Work with the team to fix it and release a patch.
 
-## The Action Steps: What to Do Immediately 🚀
+## The Action Steps: What to Do Immediately
 
 1. **Verify**: Confirm the mistake before jumping to conclusions.
 2. **Report**: Use GitHub or other tools to document the error.

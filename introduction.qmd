@@ -1,4 +1,4 @@
-# Introduction 🚀 {.unnumbered}
+# Introduction {.unnumbered}
 
 This lab manual is your crash course for diving into research at iHuman Lab! It covers everything you need to know about your rights, responsibilities, and how we approach research. Think of it as your trusty guide for thriving in our lab.
 
@@ -33,6 +33,6 @@ This isn’t a comprehensive guide to every detail of your research project. You
 
 If you need more detailed guidance, check out our lab’s tutorials. And if you discover something new and helpful, consider contributing your own tutorial to help others!
 
-## Research Project Manual 📚
+## Research Project Manual
 
 Alongside this general manual, you’ll also use the [**Research Project Manual**](https://ihuman-lab.github.io/research-manual/){target='*blank*'} for in-depth guidance on coding, writing research papers, data management, project structuring, and more. This resource is key to making sure our research is precise, thorough, and top-notch at every stage.

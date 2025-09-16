@@ -2,14 +2,14 @@
 
 As a member of iHuman Lab, you have certain **rights**—and you also have important **responsibilities**. Here’s the rundown:
 
-## **Your Rights as a Lab Member**
+## Your Rights as a Lab Member
 
 1. You’re entitled to a **safe and respectful** work environment—no harassment, abuse, violence, or discrimination.
 2. You’re entitled to be **supported and respected** by all lab members.
 3. You’re entitled to **freely share** your scientific ideas and offer constructive feedback.
 4. You’re entitled to receive **appropriate credit** (authorship, acknowledgments, recommendations) for your contributions.
 
-## **Your Responsibilities as a Lab Member**
+## Your Responsibilities as a Lab Member
 
 1. **Promote a safe environment**: Avoid any behavior that could harm, harass, or discriminate against others.
 2. **Support and respect** everyone, including yourself.
@@ -24,7 +24,7 @@ As a member of iHuman Lab, you have certain **rights**—and you also have impor
 Read this [letter](https://www.science.org/content/article/what-can-we-learn-dartmouth){target="\_blank"} on recognizing unhealthy lab dynamics and setting boundaries.
 :::
 
-## **Big Picture**
+## Big Picture
 
 * **Do work you’re proud of**—and work that others will care about.
 * **Double-check your work**: Good science requires a little obsession with detail.
@@ -36,7 +36,7 @@ Read this [letter](https://www.science.org/content/article/what-can-we-learn-dar
 * **Communicate openly**: Be transparent and respectful in all interactions.
 * **Talk to Hemanth** if you have an unresolved issue with a lab member.
 
-## **Small Picture**
+## Small Picture
 
 * **Stay home if you’re sick**: Get well and don’t risk spreading it.
 * **Notify if you’re out**: Let the lab manager or Hemanth know if you’re sick or on vacation. Update the lab calendar and your `Microsoft Teams` status.
@@ -46,6 +46,6 @@ Read this [letter](https://www.science.org/content/article/what-can-we-learn-dar
 * **Dress code**: Casual is fine, but look **semi-professional** when interacting with participants or presenting.
 * **Arrive early**: Aim to be in the lab **15 minutes** before your experiments to greet participants.
 
-## **Recourse**
+## Recourse
 
 If you feel your rights have been violated—or if you see others’ rights being compromised—it’s your duty to report it to a senior staff member (Hemanth, Department Chair, or even Title IX coordinator). **Don’t stay silent**—speak up and help maintain a healthy, respectful environment.

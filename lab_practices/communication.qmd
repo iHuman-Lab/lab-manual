@@ -1,8 +1,8 @@
-# Communication 🗣️ {.unnumbered}
+# Communication {.unnumbered}
 
 Clear, open communication is key to success in the lab. The most successful lab members are those who communicate effectively—whether it's asking questions, sharing challenges, or simply staying in touch with the team. Here are some thoughts to keep in mind:
 
-## Two Common Barriers to Communication 🚧
+## Two Common Barriers to Communication
 
 1. **Fear of asking questions**:
 
@@ -14,13 +14,13 @@ Clear, open communication is key to success in the lab. The most successful lab 
    * **Concern**: "Am I bothering the grad student/postdoc/PI by asking this?"
    * **Reality**: **Don’t worry** about bothering me or anyone else. I prefer that you **speak up** rather than stay quiet. We’re all here to support each other. If you're unsure, I'll let you know if you’re really bothering me (so far, that hasn't happened yet!).
 
-## Why Speaking Up Helps You 💡
+## Why Speaking Up Helps You
 
 * **Increased productivity**: Discussing problems and challenges helps you avoid getting stuck.
 * **More support**: The more you communicate, the more we can **help** you and work together to solve problems.
 * **Growth**: Learning to ask the right questions and talk through issues is a skill that makes you stronger as a researcher.
 
-## Work Hours & Communication ⏰
+## Work Hours & Communication
 
 * **Weekends/after hours**: I **don’t** expect responses outside of normal hours (unless there's a clear, urgent deadline or event). I may send messages, but **don’t feel pressured** to reply until you're back in work mode.
 * **Urgency**: If something critical comes up (e.g., paper submission, conference presentation), we’ll discuss strategies in advance, so you’re not left guessing.

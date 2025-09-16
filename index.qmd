@@ -1,10 +1,10 @@
-# Welcome 🎉 {.unnumbered}
+# Welcome {.unnumbered}
 
 We’re **so excited** you’ve joined the **`I`**ntelligent **`Hu`**man-**`Ma`**chine **`N`**exus Lab (aka iHuman Lab)! 🚀 Get ready to dive into the fascinating world of human-machine interaction and neuroscience. Along the way, you'll pick up awesome skills (think coding, data analysis, writing papers, and giving epic talks), make new friends, and have a blast!
 
 We know that starting in a research lab can feel like drinking from a firehose 🌊—but don't worry, we’ve got your back! This manual is your trusty sidekick, guiding you through everything from lab policies to your rights and responsibilities. You’ll also find tips on how to fit right in with our workflows, stay safe, and keep things ethical.
 
-## Acknowledgments ✨
+## Acknowledgments
 
 Big thanks to the following labs for inspiring parts of this manual:
 [Context Dynamics Lab](https://GitHub.com/ContextLab/lab-manual)
@@ -15,4 +15,3 @@ Big thanks to the following labs for inspiring parts of this manual:
 [Kemp Lab](https://sites.gatech.edu/cdi/files/2023/04/Melissa-Kemp-Georgia-Tech-Emory-University.pdf)
 
 This manual is licensed under the Creative Commons Attribution 4.0 International License, which means you can share, adapt, and remix it—just be sure to give credit where credit’s due!
-

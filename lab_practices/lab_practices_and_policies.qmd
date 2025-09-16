@@ -1,53 +1,53 @@
-### Lab Practices & Policies {.unnumbered}
+# Lab Practices & Policies {.unnumbered}
 
 To achieve **scientific excellence** and a thriving lab, we stick to these guiding principles that keep things running smoothly and efficiently.
 
-#### **Collaboration 🤝**
+## Collaboration
 
 * We’re all in this together. Our team’s **diversity**—from Computer Science to Neuroscience—helps us tackle tough problems.
 * The key to success? **Admitting what we don’t know** and **learning together**!
 
-#### **Patience 🧘‍♂️**
+## Patience
 
 * Science is hard. Expect experiments to fail more than succeed—but that’s where the magic happens.
 * **Stay calm, keep thinking, and collaborate** when things go wrong. If something’s not working, it’s okay to **move on**.
 
-#### **Accept the Process 🛠️**
+## Accept the Process
 
 * Mistakes and **unexpected results** happen. Embrace them.
 * Facing issues head-on, figuring them out, and moving forward is the only way to grow!
 
-#### **Caution 🧐**
+## Caution
 
 * **Skepticism is key**. Double-check everything.
 * Test your results from every angle to ensure you’re on the right track.
 
-#### **Attention to Detail 🔍**
+## Attention to Detail
 
 * Small details can make or break an experiment.
 * Quality control is **crucial** to ensure things keep moving forward smoothly.
 
-#### **Communication 💬**
+## Communication
 
 * No one works alone here. Good communication keeps us **on the same page**.
 * **Frequent updates** help avoid misunderstandings and duplicated efforts.
 
-#### **Feedback 🔄**
+## Feedback
 
 * Constructive **criticism** is **essential**. It’s not personal—just a way to improve!
 * Our goal is to **find solutions**, not prove how clever we are. **Feedback fuels better science**.
 
-#### **Positivity 🌟**
+## Positivity
 
 * Science is tough, but a **positive attitude** keeps the team energized.
 * If you’re having a hard time staying upbeat, let’s talk—it’s all about supporting each other!
 
-#### **Balance ⚖️**
+## Balance
 
 * Don’t burn out. Work smarter, not harder!
 * **Focus blocks** and breaks will help you stay **productive** and **refreshed**.
 
-#### **Resource Allocation 💡**
+## Resource Allocation
 
 * Our resources (time, money, equipment) are limited.
 * Let’s use them wisely to make the biggest impact. And always be on the lookout for **funding opportunities**!
