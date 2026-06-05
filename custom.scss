@@ -1,38 +1,398 @@
 /*-- scss:defaults --*/
 
-// $primary: #982a31 !default;
-// $fg: #2b2121 !default;
-// $bg: #ffffff !default;
+$font-family-monospace: "JetBrains Mono", monospace !default;
+$primary: #EC672C !default;
+$link-color: #EC672C !default;
+$headings-font-weight: 700 !default;
+$border-radius: 0.5rem !default;
+$navbar-bg: #252525 !default;
+$navbar-fg: #ffffff !default;
+$navbar-hl: #EC672C !default;
 
 
 /*-- scss:rules --*/
 
-img.quarto-cover-image {
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+:root {
+    --bs-body-font-weight: 500;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+
+body {
+
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.7;
+    color: #252525;
+    background-color: #fdfcfb;
+}
+
+p {
+    margin-bottom: 1.1em;
+}
+
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+
+    letter-spacing: -0.02em;
+    color: #252525;
+    margin-bottom: 0.4em;
+}
+
+h1 {
+    font-weight: 900;
+    color: #EC672C;
+}
+
+h2 {
+    border-left: 5px solid #EC672C;
+    padding-left: 14px;
+    margin-top: 2em;
+}
+
+h3 {
+    font-weight: 700;
+    color: #252525;
+}
+
+/* links */
+a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover {
+    color: #d4561f;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+/* code blocks */
 pre {
-    background-color: rgba(233, 236, 239, 0.65);
+    font-family: "JetBrains Mono", monospace;
+    background-color: #f8f6f4;
+    border-left: 4px solid #EC672C;
+    border-radius: 0.5rem;
+    padding: 1.2rem 1.4rem;
+    box-shadow: 0 1px 2px rgba(17,17,26,0.06), 0 0 14px rgba(236,103,44,0.08);
 }
 
+code {
+    font-family: "JetBrains Mono", monospace;
+}
 
+code:not(pre > code) {
+    background-color: #fff0e8;
+    color: #d4561f;
+    padding: 0.15em 0.4em;
+    border-radius: 0.3rem;
+    font-size: 0.85em;
+}
 
+/* blockquotes */
+blockquote {
+    border-left: 5px solid #EC672C;
+    background-color: #f8f6f4;
+    border-radius: 0 0.5rem 0.5rem 0;
+    padding: 1rem 1.4rem;
+    color: #555;
+    font-style: italic;
+}
+
+/* callouts */
+.callout {
+    border-radius: 0.5rem;
+    border-left-width: 5px;
+}
+
+.callout-tip {
+    border-left-color: #EC672C !important;
+    background-color: #ffffff !important;
+}
+
+.callout-note {
+    border-left-color: #252525 !important;
+    background-color: #ffffff !important;
+}
+
+.callout-warning {
+    border-left-color: #e6a817 !important;
+    background-color: #fffbf0 !important;
+}
+
+.callout-important {
+    border-left-color: #c0392b !important;
+    background-color: #fff5f5 !important;
+}
+
+.callout.callout-style-default .callout-body {
+    font-size: 1.0rem;
+}
+
+/* tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+thead tr {
+    background-color: #252525;
+    color: #ffffff;
+}
+
+thead th {
+    padding: 0.75rem 1rem;
+
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f8f6f4;
+}
+
+tbody td {
+    padding: 0.65rem 1rem;
+    border-bottom: 1px solid #eeeeee;
+}
+
+/* images */
+.quarto-figure img, article img {
+    border-radius: 10px;
+    box-shadow: 0 1px 2px rgba(17,17,26,0.06), 0 0 14px rgba(236,103,44,0.10);
+}
+
+/* cover image */
+img.quarto-cover-image {
+    box-shadow: 0 6px 16px rgba(17,17,26,0.10), 0 0 24px rgba(236,103,44,0.22);
+    border-radius: 18px;
+}
+
+/* navbar */
+.navbar {
+    background-color: #252525 !important;
+}
+
+.navbar .navbar-nav > li > a {
+    line-height: 40px;
+    font-weight: 700;
+    color: #ffffff !important;
+}
+
+.navbar .navbar-nav > li > a:hover {
+    color: #EC672C !important;
+}
+
+.navbar-brand:hover {
+    color: #ffffff !important;
+}
+
+.navbar-brand-box {
+    height: 20px;
+    max-height: 20px;
+}
+
+/* sidebar nav */
 nav ul li {
     padding: 5px 0 0 0;
-
 }
 
-@media (min-width: 1200px) {
-    .container {
-        max-width: 970px;
-    }
+.sidebar-item-text {
+    transition: color 0.2s ease;
 }
 
+.sidebar-item-text:hover {
+    color: #EC672C !important;
+}
+
+.sidebar-item.active > .sidebar-item-container .sidebar-item-text {
+    color: #EC672C !important;
+    font-weight: 600;
+    border-left: 3px solid #EC672C;
+    padding-left: 6px;
+}
+
+/* sidebar logo */
 #quarto-sidebar img {
     width: 75%;
     display: block;
 }
 
-.callout.callout-style-default .callout-body {
-    font-size: 1.0rem;
+/* eyebrow text */
+.eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #EC672C;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+/* footer */
+.nav-footer {
+    background-color: #252525 !important;
+    color: rgba(255,255,255,0.6) !important;
+    border-top: 3px solid #EC672C !important;
+    padding: 1rem 0;
+    font-size: 0.8rem;
+}
+
+.nav-footer a {
+    color: #EC672C !important;
+    font-weight: 600;
+}
+
+/* chapter title banner */
+.quarto-title-block, #title-block-header {
+    background-color: #252525;
+    margin: -1.5rem 0 2.5rem -1.5rem;
+    padding: 3rem 2.5rem 2.5rem;
+    border-bottom: 4px solid #EC672C;
+}
+
+.quarto-title-block h1.title,
+#title-block-header h1.title,
+.quarto-title h1 {
+    color: #EC672C !important;
+    -webkit-text-fill-color: #EC672C !important;
+    font-size: 2.4rem;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+.quarto-title-block .description,
+.quarto-title-block .subtitle,
+#title-block-header .description {
+    color: rgba(255,255,255,0.65);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+}
+
+/* sidebar */
+#quarto-sidebar {
+    background-color: #f8f6f4 !important;
+    border-right: 1px solid #eeeeee;
+}
+
+.sidebar-title {
+
+    font-weight: 900;
+    font-size: 1rem;
+    color: #252525;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #EC672C;
+    margin-bottom: 0.75rem;
+}
+
+/* TOC */
+#TOC {
+    border-left: 2px solid #eeeeee;
+    padding-left: 1rem;
+    font-size: 0.82rem;
+}
+
+#TOC .active {
+    color: #EC672C !important;
+    font-weight: 600;
+    border-left: 2px solid #EC672C;
+    margin-left: -1.1rem;
+    padding-left: 0.9rem;
+}
+
+#TOC a:hover {
+    color: #EC672C !important;
+}
+
+/* part headers in sidebar */
+.sidebar-item-section .sidebar-item-text {
+
+    font-weight: 700;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #888 !important;
+}
+
+/* chapter intro — first paragraph lead-in */
+#quarto-document-content > p:first-of-type,
+.chapter > p:first-of-type {
+    font-size: 1.2rem;
+    padding-left: 1rem;
+    border-left: 3px solid rgba(236, 103, 44, 0.3);
+    color: #444;
+    margin-bottom: 1.5rem;
+}
+
+/* horizontal rules */
+hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, #EC672C, transparent);
+    margin: 2.5rem 0;
+    opacity: 0.5;
+}
+
+/* breadcrumb under title */
+.quarto-title-meta {
+    display: block !important;
+    color: rgba(255,255,255,0.5) !important;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+}
+
+.quarto-title-meta-contents {
+    display: block !important;
+}
+
+.quarto-categories {
+    margin-top: 0.75rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+}
+
+.quarto-category {
+    background-color: rgba(236,103,44,0.2);
+    color: #EC672C !important;
+    border: 1px solid rgba(236,103,44,0.4);
+    border-radius: 99px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 0.2rem 0.75rem;
+}
+
+/* mobile — navbar toggle visible on dark bg */
+.navbar-toggler {
+    border-color: rgba(255,255,255,0.4) !important;
+}
+
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+
+@media (max-width: 768px) {
+    .quarto-title-block, #title-block-header {
+        padding: 2rem 1.25rem 1.75rem;
+    }
+}
+
+/* main content top spacing */
+#quarto-content {
+    padding-top: 1.5rem;
+}
+
+/* content width */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 970px;
+    }
 }
