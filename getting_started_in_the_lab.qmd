@@ -1,4 +1,4 @@
-# Getting Started in the Lab {.unnumbered}
+# Getting started in the lab {.unnumbered}
 
 Welcome aboard! 🚀 The first step is getting connected—both with people and platforms. Here’s what you’ll need to set up so you can communicate, collaborate, and keep projects moving:
 
@@ -25,12 +25,12 @@ Once you’ve created those accounts, you can ask any questions through `Microso
 ## Lab website {#sec-labwebsite}
 Once you have your accounts set up, you’ll need to add your profile to the lab’s website. Follow these steps to fork the repository, create your profile folder, and add your details.
 
-### Step 1: Fork the Lab Website Repository
+### Step 1: Fork the lab website repository
 
 1. Go to the [lab website GitHub repository](https://github.com/iHuman-Lab/lab-website){target='_blank_'}.
 2. Click on the **Fork** button in the top-right corner of the page. This will create a copy of the repository under your own GitHub account.
 
-### Step 2: Clone Your Forked Repository
+### Step 2: Clone your forked repository
 
 1. On your GitHub account, navigate to your forked repository.
 2. Click the **Code** button and copy the repository URL.
@@ -43,7 +43,7 @@ Once you have your accounts set up, you’ll need to add your profile to the lab
    cd lab-website
    ```
 
-### Step 3: Add Your Profile Folder
+### Step 3: Add your profile folder
 
 1. In the `people` directory, find the folder corresponding to your role in the lab:
 
@@ -64,7 +64,7 @@ Once you have your accounts set up, you’ll need to add your profile to the lab
 
    For other roles, replace `master` with `pi`, `phd`, `undergraduate`, or `alumni` accordingly.
 
-### Step 4: Add Your Profile Details
+### Step 4: Add your profile details
 
 1. Inside your folder (e.g., `people/master/"your_name"`), add your profile photo and index file.
 
@@ -103,7 +103,7 @@ Once you have your accounts set up, you’ll need to add your profile to the lab
 
    Replace placeholders like `Your name here`, `Add your linkedin link`, etc., with your actual details.
 
-### Step 5: Commit and Push Your Changes
+### Step 5: Commit and push your changes
 
 1. Commit your changes:
    ```bash
@@ -115,7 +115,7 @@ Once you have your accounts set up, you’ll need to add your profile to the lab
    git push origin main
    ```
 
-### Step 6: Create a Pull Request
+### Step 6: Create a pull request
 
 1. Go to your forked repository on GitHub.
 2. Click on the **Pull Requests** tab and then **New Pull Request**.

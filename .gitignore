@@ -12,3 +12,5 @@ lab_manual.fdb_latexmk
 lab_manual.ind
 
 /.quarto/
+
+**/*.quarto_ipynb

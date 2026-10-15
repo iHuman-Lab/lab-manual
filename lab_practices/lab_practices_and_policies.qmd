@@ -1,4 +1,4 @@
-# Lab Practices & Policies {.unnumbered}
+# Lab practices & policies {.unnumbered}
 
 To achieve **scientific excellence** and a thriving lab, we stick to these guiding principles that keep things running smoothly and efficiently.
 
@@ -12,7 +12,7 @@ To achieve **scientific excellence** and a thriving lab, we stick to these guidi
 * Science is hard. Expect experiments to fail more than succeed—but that’s where the magic happens.
 * **Stay calm, keep thinking, and collaborate** when things go wrong. If something’s not working, it’s okay to **move on**.
 
-## Accept the Process
+## Accept the process
 
 * Mistakes and **unexpected results** happen. Embrace them.
 * Facing issues head-on, figuring them out, and moving forward is the only way to grow!
@@ -22,7 +22,7 @@ To achieve **scientific excellence** and a thriving lab, we stick to these guidi
 * **Skepticism is key**. Double-check everything.
 * Test your results from every angle to ensure you’re on the right track.
 
-## Attention to Detail
+## Attention to detail
 
 * Small details can make or break an experiment.
 * Quality control is **crucial** to ensure things keep moving forward smoothly.
@@ -47,7 +47,7 @@ To achieve **scientific excellence** and a thriving lab, we stick to these guidi
 * Don’t burn out. Work smarter, not harder!
 * **Focus blocks** and breaks will help you stay **productive** and **refreshed**.
 
-## Resource Allocation
+## Resource allocation
 
 * Our resources (time, money, equipment) are limited.
 * Let’s use them wisely to make the biggest impact. And always be on the lookout for **funding opportunities**!

@@ -1,14 +1,14 @@
-# Lab Meetings {.unnumbered}
+# Lab meetings {.unnumbered}
 
 Our lab thrives on collaboration and communication—**lab meetings** are a core part of that! Whether we’re in-person or remote, we want to make sure there’s a space for everyone to share ideas, ask questions, and provide feedback. Here’s how we do it:
 
-## Weekly Lab Meetings
+## Weekly lab meetings
 
 * **When**: Tuesdays from **1:30 - 2:30 PM (CST)**, starting in Fall 2025
 * **Where**: ATRC 324
 * **Attendance**: All active lab members should attend unless there’s a conflict (let Hemanth know if you can’t make it). These meetings are important for keeping the lab connected, informed, and collaborative.
 
-## Presentation Expectations
+## Presentation expectations
 
 * **Present once per term**: As an active member, you’ll present at least one lab meeting each term. It can be anything related to your work or something cool you’ve discovered!
 
@@ -24,7 +24,7 @@ Possible topics include:
 
 You can take up to an hour, but shorter is fine! You can also co-present with a teammate if you like. Hemanth will send out a Google Sheets link for scheduling at the start of each term.
 
-## Project Meetings
+## Project meetings
 
 These are organized as needed for specific projects. Whether you're collaborating within the lab or with external partners, these meetings are all about **coordination and progress**.
 
@@ -36,7 +36,7 @@ We occasionally hold **hackathon-style events**—spontaneous, high-energy, shor
 
 * **Attendees**: Any interested lab members, Dartmouth community members, and external collaborators
 
-## Weekly Snippets
+## Weekly snippets
 
 Each week, **all paid employees** must fill out a quick **weekly snippet** with answers to the following:
 

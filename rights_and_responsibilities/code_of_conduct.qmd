@@ -1,14 +1,14 @@
-# Code of Conduct {.unnumbered}
+# Code of conduct {.unnumbered}
 
 At iHuman Lab, we believe in fostering an environment where everyone feels respected, supported, and safe. Here's our code of conduct:
 
-## The Quick Version
+## The quick version
 
 * We are committed to creating a **harassment-free space** for all lab members and visitors, regardless of gender, age, race, sexual orientation, disability, physical appearance, or religion.
 * **Harassment is not tolerated** in any form—whether verbal, physical, or emotional.
 * **Sexual language and imagery** are inappropriate in all lab spaces, including meetings, presentations, or casual conversations.
 
-## The Less Quick Version
+## The less quick version
 
 Harassment includes:
 
@@ -22,7 +22,7 @@ If asked to stop any harassing behavior, **you must comply immediately.**
 
 If you're experiencing or witnessing harassment—or have any concerns—please contact **Hemanth** right away. If Hemanth is the issue, reach out to the **department chair** or another trusted staff member.
 
-## The Bottom Line
+## The bottom line
 
 We expect all members to uphold these guidelines at **all lab-related events**. Let’s work together to keep our environment safe, welcoming, and productive!
 

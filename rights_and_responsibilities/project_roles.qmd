@@ -1,4 +1,4 @@
-# Lab Member Roles {.unnumbered}
+# Lab member roles {.unnumbered}
 
 Each lab member has a unique role, and we all bring our skills to the table. Here's who does what in iHuman Lab:
 
@@ -11,7 +11,7 @@ The PI is the **brain behind the lab**—the one who keeps everything running:
 * **Career Booster**: Helps you with professional development by connecting you with other researchers, writing recommendation letters, and promoting your work at conferences.
 * **Human First**: Cares about you as a person, not just a researcher.
 
-## Project Owner
+## Project owner
 
 The Project Owner is the **visionary**—the one who ensures the project is moving in the right direction and achieving results:
 
@@ -21,7 +21,7 @@ The Project Owner is the **visionary**—the one who ensures the project is movi
 * **The Guardian of Interests**: Considers funding bodies and the scientific community’s needs in every decision.
 * **The Leader**: Guides the team but might still roll up their sleeves and contribute as a team member.
 
-## Team Member
+## Team member
 
 Team Members are the **engine** that powers the project. They do the hands-on work and collaborate closely:
 
@@ -31,7 +31,7 @@ Team Members are the **engine** that powers the project. They do the hands-on wo
 * **Commitment**: Ideally, they focus on one project at a time and stay with the lab for the long haul.
 * **Leadership**: Even as contributors, Team Members have a leadership role in driving their area of the project.
 
-## Project Coordinator
+## Project coordinator
 
 The Project Coordinator is the **glue** that keeps everything together, making sure the team is staying on track and that the research process is smooth:
 
