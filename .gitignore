@@ -14,3 +14,4 @@ lab_manual.ind
 /.quarto/
 
 **/*.quarto_ipynb
+/_book/

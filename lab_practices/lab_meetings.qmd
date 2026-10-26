@@ -34,7 +34,7 @@ These are organized as needed for specific projects. Whether you're collaboratin
 
 We occasionally hold **hackathon-style events**—spontaneous, high-energy, short-term projects. These are a great way to tackle a specific problem or idea in a collaborative, fast-paced way.
 
-* **Attendees**: Any interested lab members, Dartmouth community members, and external collaborators
+* **Attendees**: Any interested lab members, OSU community members, and external collaborators
 
 ## Weekly snippets
 

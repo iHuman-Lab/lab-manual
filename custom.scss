@@ -484,6 +484,12 @@ hr {
     background: rgba(236,103,44,0.3);
 }
 
+/* inline code: light tint instead of the dark Dracula background */
+code:not(.sourceCode):not(pre > code):not(strong > code) {
+    background-color: #fff0e8 !important;
+    color: #d4561f !important;
+}
+
 /* bold inline code (e.g. acronym letters): no background, orange text */
 strong > code,
 strong > code:not(pre > code),

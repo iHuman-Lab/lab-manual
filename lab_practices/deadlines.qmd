@@ -8,5 +8,5 @@ Staying sane in academia is all about teamwork and timing! Think of deadlines as
 * **Manuscripts**: Share drafts ASAP! If feedback stalls past 2 weeks, a friendly reminder works wonders.
 
 :::{.callout-tip}
-Track everything on `Microsoft Planner`—our shared compass for deadlines.
+Track everything on `GitHub Projects`—our shared compass for deadlines.
 :::

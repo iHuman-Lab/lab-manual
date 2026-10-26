@@ -8,14 +8,14 @@ Welcome aboard! 🚀 The first step is getting connected—both with people and 
 
 <p align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=AzfotQgy0j-SF1MK&amp;list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <p>
 
-3. **Microsoft Planner** – Our project dashboard. Using Kanban boards, we track tasks from brainstorming all the way to publication. It’s how we see progress, bottlenecks, and priorities at a glance.
+3. **GitHub Projects** – Our project dashboard. Using Kanban boards, we track tasks from brainstorming all the way to publication. It’s how we see progress, bottlenecks, and priorities at a glance.
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QyMKuRn7dno?si=Tq5tAmWEK2LQvHw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oPQgFxHcjAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>
 
 :::{.callout-note title=Task}
-As a OSU student you already have access to `**Microsoft Teams**` and `**Planner**`, all you have to do is create `**GitHub**` account.
+As a OSU student you already have access to `Microsoft Teams`, all you have to do is create a `GitHub` account. `GitHub Projects` boards are part of GitHub, so there is nothing extra to sign up for.
 :::
 
 Once you’re set up, hop into **Teams** to introduce yourself (#general is a good place) and start the onboarding workflow. Depending on your role, you may see just one project channel or the full lab space.
