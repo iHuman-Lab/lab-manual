@@ -571,7 +571,7 @@
     "href": "lab_practices/lab_meetings.html#hackathons",
     "title": "Lab meetings",
     "section": "Hackathons",
-    "text": "Hackathons\nWe occasionally hold hackathon-style events—spontaneous, high-energy, short-term projects. These are a great way to tackle a specific problem or idea in a collaborative, fast-paced way.\n\nAttendees: Any interested lab members, Dartmouth community members, and external collaborators",
+    "text": "Hackathons\nWe occasionally hold hackathon-style events—spontaneous, high-energy, short-term projects. These are a great way to tackle a specific problem or idea in a collaborative, fast-paced way.\n\nAttendees: Any interested lab members, OSU community members, and external collaborators",
     "crumbs": [
       "Lab practices & policies",
       "Lab meetings"
@@ -604,7 +604,7 @@
     "href": "lab_practices/travel_policy.html#if-youre-presenting-your-work",
     "title": "Travel policy",
     "section": "",
-    "text": "Travel Expenses & Conference Fees: If you’re the presenting author (talk or poster), the lab will cover your travel expenses and conference registration fees.\nSeek Other Funding: We encourage you to seek additional travel funding through other channels (e.g., PBS, internal Dartmouth sources, travel awards, personal grants like NRSAs or NSF fellowships).\nKeep It Reasonable: While we want to be mindful of your comfort and time, keep costs low. This might mean flying economy, finding affordable hotels, and sharing rooms with lab members when possible. We’ll still ensure you’re comfortable!",
+    "text": "Travel Expenses & Conference Fees: If you’re the presenting author (talk or poster), the lab will cover your travel expenses and conference registration fees.\nSeek Other Funding: We encourage you to seek additional travel funding through other channels (e.g., the MAE department, CEAT matching travel funds for domestic conferences, the OSU Graduate and Professional Student Government Association (GPSGA) travel awards, conference travel awards, personal grants like NSF fellowships).\nKeep It Reasonable: While we want to be mindful of your comfort and time, keep costs low. This might mean flying economy, finding affordable hotels, and sharing rooms with lab members when possible. We’ll still ensure you’re comfortable!",
     "crumbs": [
       "Lab practices & policies",
       "Travel policy"
@@ -648,7 +648,7 @@
     "href": "lab_practices/deadlines.html",
     "title": "Deadlines",
     "section": "",
-    "text": "Staying sane in academia is all about teamwork and timing! Think of deadlines as stormy seas—your job is to spot the lighthouse early and signal the crew (yes, even bug Hemanth). Clear heads and timely nudges keep the ship sailing smoothly. Here are the ideal timelines:\n\nQuick stuff (conference reviews, paperwork): 1 week’s notice.\nMedium stuff (recommendation letters): 2 weeks.\nBig stuff (research/teaching statements): 3 weeks.\nManuscripts: Share drafts ASAP! If feedback stalls past 2 weeks, a friendly reminder works wonders.\n\n\n\n\n\n\n\nTip\n\n\n\nTrack everything on Microsoft Planner—our shared compass for deadlines.",
+    "text": "Staying sane in academia is all about teamwork and timing! Think of deadlines as stormy seas—your job is to spot the lighthouse early and signal the crew (yes, even bug Hemanth). Clear heads and timely nudges keep the ship sailing smoothly. Here are the ideal timelines:\n\nQuick stuff (conference reviews, paperwork): 1 week’s notice.\nMedium stuff (recommendation letters): 2 weeks.\nBig stuff (research/teaching statements): 3 weeks.\nManuscripts: Share drafts ASAP! If feedback stalls past 2 weeks, a friendly reminder works wonders.\n\n\n\n\n\n\n\nTip\n\n\n\nTrack everything on GitHub Projects—our shared compass for deadlines.",
     "crumbs": [
       "Lab practices & policies",
       "Deadlines"
@@ -758,7 +758,7 @@
     "href": "lab_resources.html",
     "title": "Lab resources",
     "section": "",
-    "text": "Computers\nAs with most academic research labs, we (sadly!) must conduct our research within a limited research budget. In practice, the important thing is to communicate with Hemanth before you spend (or commit to spending) lab funds. Generally, the lab’s financial policy is the following: we will do whatever is possible to ensure you have the equipment and resources you need to do your best work. If you can adequately justify an expense and sufficient funds are available, then we will spend what it takes to get the job done. If you cannot justify an expense, or if the lab does not have sufficient funds, then we will need to get creative by figuring out how to get the job done anyway on a seemingly too-small budget. Usually, we’ll find ourselves somewhere in the middle of this continuum, which will help us stretch our limited budget as much as possible while not making ourselves crazy or losing too much productivity in the process. Some of our projects are intended to be self-funded and/or to support other projects (e.g., StockProphet). Any use of project-generated funds should be discussed with Hemanth.\nAll lab members need a computer to get their work done. We generally prefer to use Linux machines, as this maximizes compatibility across lab members. Depending on your expected role in the lab and the specifics of your project, the lab may provide a computer to you, or you may be expected to use your personal computer to complete your work. Any equipment purchased by the lab, including personal computers, is the official property of the iHuman Lab and should be treated as such. All equipment must be returned to the lab when your association with the lab is complete. In addition to personal computers, we also maintain a lab account at Oklahoma State University’s Supercomputing Cluster.",
+    "text": "Computers\nOur research budget is limited, and students cannot spend lab funds or make purchases on their own. If you need equipment, software, or other resources, talk to Hemanth first, and he will handle the purchase if it can be justified and funds are available.\nAny use of project-generated funds should also be discussed with Hemanth.\nAll lab members need a computer to get their work done. We generally prefer to use Linux machines, as this maximizes compatibility across lab members. Depending on your expected role in the lab and the specifics of your project, the lab may provide a computer to you, or you may be expected to use your personal computer to complete your work. Any equipment purchased by the lab, including personal computers, is the official property of the iHuman Lab and should be treated as such. All equipment must be returned to the lab when your association with the lab is complete. In addition to personal computers, we also maintain a lab account at Oklahoma State University’s Supercomputing Cluster.",
     "crumbs": [
       "Lab resources"
     ]
@@ -768,7 +768,7 @@
     "href": "lab_resources.html#other-research-equipment",
     "title": "Lab resources",
     "section": "Other research equipment",
-    "text": "Other research equipment\nMany research projects require specialized research equipment (e.g. for neuroimaging using EEG, ECoG, etc.). Some of the necessary research equipment is owned by the iHuman Lab, and other equipment is shared with other labs affiliated with PBS or DHMC. All equipment should be treated with care and respect. Any malfunctions should be reported immediately.",
+    "text": "Other research equipment\nMany research projects require specialized research equipment (e.g. for neuroimaging using EEG, ECoG, etc.). Some of the necessary research equipment is owned by the iHuman Lab, and other equipment is shared with other labs at Oklahoma State University. All equipment should be treated with care and respect. Any malfunctions should be reported immediately.",
     "crumbs": [
       "Lab resources"
     ]
@@ -778,7 +778,7 @@
     "href": "lab_resources.html#repository-of-shared-lab-papers-and-books",
     "title": "Lab resources",
     "section": "Repository of shared lab papers and books",
-    "text": "Repository of shared lab papers and books\nOur lab maintains a Dropbox repository of PDFs for internal use by lab members and affiliates. Contact Hemanth for a link (not to be shared publicly).",
+    "text": "Repository of shared lab papers and books\nOur lab maintains a OneDrive repository of PDFs for internal use by lab members and affiliates. Contact Hemanth for a link (not to be shared publicly).",
     "crumbs": [
       "Lab resources"
     ]
